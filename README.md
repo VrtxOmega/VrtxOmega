@@ -4,7 +4,7 @@
 
 **I build sovereign, local-first intelligence platforms locked behind uncompromising cryptographic validation, delivered with premium architectural fidelity.**
 
-`Illinois` &nbsp;|&nbsp; [`VrtxOmega@pm.me`](mailto:VrtxOmega@pm.me) &nbsp;|&nbsp; [`@RJLopezAI`](https://x.com/RJLopezAI) &nbsp;|&nbsp; [`in/reamond-lopez-60449b112`](https://linkedin.com/in/reamond-lopez-60449b112)
+`Illinois` &nbsp;|&nbsp; [`VrtxOmega@pm.me`](mailto:VrtxOmega@pm.me) &nbsp;|&nbsp; [`@RJLopezAI`](https://x.com/RJLopezAI) &nbsp;|&nbsp; [`in/reamond-lopez-60449b112`](https://linkedin.com/in/RJLopezAI)
 
 </div>
 
