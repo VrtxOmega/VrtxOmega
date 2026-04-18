@@ -68,7 +68,7 @@ PRs merged into repositories I don't own:
 
 ### DOCTRINE
 
-**Local-First** — If it doesn't run offline, it does not ship.
+**Local-First** 
 
 **Deterministic Validation** — AI outputs pass a strict multi-gate cryptographic audit pipeline before acceptance. The pipeline does not determine what is true — it determines what survives disciplined attempts to falsify it.
 
