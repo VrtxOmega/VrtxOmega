@@ -20,7 +20,7 @@
 ## The Last 12 Weeks
 
 <table>
-<tr><td><b>40</b></td><td>Repositories shipped across an interconnected ecosystem</td></tr>
+<tr><td><b>28</b></td><td>Repositories shipped across an interconnected ecosystem</td></tr>
 <tr><td><b>2</b></td><td>PRs merged into Anthropic's <a href="https://github.com/modelcontextprotocol/python-sdk">modelcontextprotocol/python-sdk</a> — <a href="https://github.com/modelcontextprotocol/python-sdk/pull/2442">#2442</a> and <a href="https://github.com/modelcontextprotocol/python-sdk/pull/2443">#2443</a></td></tr>
 <tr><td><b>A · A · A</b></td><td>Security · License · Quality on the <a href="https://glama.ai/mcp/servers/VrtxOmega/omega-brain-mcp">Glama MCP Registry</a></td></tr>
 <tr><td><b>141/141</b></td><td>Adversarial scenarios passed on OmegaWallet — <a href="https://github.com/VrtxOmega/OmegaWallet/blob/main/SECURITY_VALIDATION.md">validation report</a></td></tr>
