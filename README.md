@@ -27,7 +27,7 @@
 <tr><td><b>100+</b></td><td>Commits across 32 repositories in April 2026 alone</td></tr>
 </table>
 
-Background: cleanroom certification (NSF/ANSI 49, ISO 14644) and NASA-contracted thermal spray work. No formal CS education. Started shipping software seriously ~12 weeks ago. The audit-chain instinct came from the cleanroom floor, not a computer science lecture.
+Background: cleanroom certification (NSF/ANSI 49, ISO 14644) and NASA-contracted thermal spray work. No formal CS education. Started shipping software seriously ~14 weeks ago. The audit-chain instinct came from the cleanroom floor, not a computer science lecture.
 
 ---
 
