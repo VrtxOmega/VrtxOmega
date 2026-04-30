@@ -15,6 +15,20 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="900" alt="VERITAS Mission Crawl"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="800" alt="Ω Universe Constellation"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="880" alt="Ω Pulse Contribution Grid"/>
+
+</div>
+
 ---
 
 ## The Last 14 Weeks

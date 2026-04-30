@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+  <defs>
+    <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="5%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="goldFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#FFD700" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#FFD700" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="scrollBox">
+      <rect x="0" y="0" width="900" height="80"/>
+    </clipPath>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="particleGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="80" fill="#000000"/>
+
+  <!-- Thin gold border lines top and bottom -->
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#FFD700" stroke-width="0.5" stroke-opacity="0.3"/>
+  <line x1="0" y1="79" x2="900" y2="79" stroke="#FFD700" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Ω symbol static on the left -->
+  <text x="30" y="52" font-family="Georgia, serif" font-size="26" fill="#FFD700" filter="url(#glow)" font-weight="bold">Ω</text>
+
+  <!-- Separator line -->
+  <line x1="60" y1="25" x2="60" y2="55" stroke="#FFD700" stroke-width="0.8" stroke-opacity="0.5"/>
+
+  <!-- Scrolling text container -->
+  <g clip-path="url(#scrollBox)">
+    <!-- Mission text - scrolls right to left continuously -->
+    <g>
+      <text font-family="Georgia, serif" font-size="17" fill="#FFD700" fill-opacity="0.9" letter-spacing="2">
+        BUILDING SOVEREIGN INTELLIGENCE INFRASTRUCTURE THAT PASSES DISCIPLINED ATTEMPTS TO FALSIFY IT
+        <animateTransform attributeName="transform" type="translate" 
+          values="900,0;-1900,0" dur="18s" repeatCount="indefinite"/>
+      </text>
+      <!-- Duplicate for seamless loop -->
+      <text font-family="Georgia, serif" font-size="17" fill="#FFD700" fill-opacity="0.9" letter-spacing="2">
+        BUILDING SOVEREIGN INTELLIGENCE INFRASTRUCTURE THAT PASSES DISCIPLINED ATTEMPTS TO FALSIFY IT
+        <animateTransform attributeName="transform" type="translate" 
+          values="2800,0;0,0" dur="18s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- Sub-line: VERITAS OMEGA ECOSYSTEM - scrolls opposite direction -->
+  <g clip-path="url(#scrollBox)">
+    <text font-family="Georgia, serif" font-size="11" fill="#C9A84C" fill-opacity="0.6" letter-spacing="4">
+      VERITAS · 32 REPOSITORIES · 10-GATE BUILD PIPELINE · CRYPTOGRAPHIC AUDIT LEDGER · SSWP ATTESTATION · SOVEREIGN AI
+      <animateTransform attributeName="transform" type="translate" 
+        values="-950,30;900,30" dur="24s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Georgia, serif" font-size="11" fill="#C9A84C" fill-opacity="0.6" letter-spacing="4">
+      VERITAS · 32 REPOSITORIES · 10-GATE BUILD PIPELINE · CRYPTOGRAPHIC AUDIT LEDGER · SSWP ATTESTATION · SOVEREIGN AI
+      <animateTransform attributeName="transform" type="translate" 
+        values="-1900,30;100,30" dur="24s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Gold particles trailing -->
+  <circle cx="0" cy="38" r="1.2" fill="#FFD700" opacity="0">
+    <animate attributeName="cx" values="920;0" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.7;0.7;0;0" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="42" r="0.8" fill="#FFD700" opacity="0">
+    <animate attributeName="cx" values="935;15" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.5;0.5;0;0" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="34" r="0.6" fill="#FFD700" opacity="0">
+    <animate attributeName="cx" values="910;-10" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.4;0.4;0;0" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Omega symbol subtle pulse on right -->
+  <text x="850" y="52" font-family="Georgia, serif" font-size="20" fill="#FFD700" fill-opacity="0.15" font-weight="bold">
+    Ω
+    <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bottom corner accents -->
+  <line x1="870" y1="78" x2="900" y2="78" stroke="#FFD700" stroke-width="1" stroke-opacity="0.4"/>
+  <line x1="0" y1="78" x2="30" y2="78" stroke="#FFD700" stroke-width="1" stroke-opacity="0.4"/>
+</svg>
