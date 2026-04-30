@@ -127,6 +127,11 @@ Started with cleanroom certification (NSF/ANSI 49, ISO 14644) and NASA-contracte
 <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-engagement.svg" width="700" alt="Open to Work — Sovereign AI Infrastructure Builder"/>
 
 <br>
+<br>
+
+[**Portfolio**](https://vrtxomega.github.io/veritas-portfolio/) &nbsp;·&nbsp; [**Email**](mailto:VrtxOmega@pm.me) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/rjlopezai)
+
+<br>
 
 <sub><em>Started from zero ~14 weeks ago. The full Omega Universe was designed and built in that window.</em></sub>
 
