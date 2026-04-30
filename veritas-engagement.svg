@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 140" width="700" height="140">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFD700" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.1"/>
+      <stop offset="15%" stop-color="#FFD700" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#FFD700" stop-opacity="0.15"/>
+      <stop offset="85%" stop-color="#FFD700" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="140" fill="#000000"/>
+
+  <!-- Top accent line with animated shimmer -->
+  <rect x="0" y="0" width="700" height="1" fill="url(#goldLine)"/>
+
+  <!-- Left Ω — pulsing -->
+  <text x="55" y="72" font-family="Georgia, serif" font-size="48" fill="#FFD700" filter="url(#softGlow)" font-weight="bold">
+    Ω
+    <animate attributeName="fill-opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Thin gold bar -->
+  <line x1="115" y1="28" x2="115" y2="112" stroke="#FFD700" stroke-width="0.6" stroke-opacity="0.3"/>
+
+  <!-- Main text -->
+  <text x="145" y="52" font-family="Georgia, serif" font-size="18" fill="#FFD700" fill-opacity="0.95" letter-spacing="4">
+    SOVEREIGN AI / INFRASTRUCTURE BUILDER
+  </text>
+
+  <!-- Sub-line -->
+  <text x="145" y="76" font-family="Georgia, serif" font-size="13" fill="#C9A84C" fill-opacity="0.7" letter-spacing="2">
+    OPEN TO FULL-TIME · CONTRACT · FOUNDING ENGINEER ROLES
+  </text>
+
+  <!-- Shimmer sweep across main text -->
+  <rect x="130" y="32" width="80" height="28" fill="url(#shimmer)">
+    <animateTransform attributeName="transform" type="translate"
+      values="-120,0; 580,0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Link bar -->
+  <g font-family="Georgia, serif" font-size="12" fill="#C9A84C" fill-opacity="0.6" letter-spacing="1">
+    <text x="145" y="100">
+      <tspan fill="#FFD700" fill-opacity="0.8">veritas-portfolio</tspan>
+      <tspan fill="#C9A84C" fill-opacity="0.4">  ·  </tspan>
+      <tspan fill="#FFD700" fill-opacity="0.8">VrtxOmega@pm.me</tspan>
+      <tspan fill="#C9A84C" fill-opacity="0.4">  ·  </tspan>
+      <tspan fill="#FFD700" fill-opacity="0.8">linkedin.com/in/rjlopezai</tspan>
+    </text>
+  </g>
+
+  <!-- Right-side subtle Ω -->
+  <text x="660" y="72" font-family="Georgia, serif" font-size="16" fill="#FFD700" fill-opacity="0.12">
+    Ω
+    <animate attributeName="fill-opacity" values="0.12;0.25;0.12" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bottom border -->
+  <line x1="55" y1="138" x2="645" y2="138" stroke="#C9A84C" stroke-width="0.4" stroke-opacity="0.25"/>
+
+  <!-- Tiny VERITAS mark -->
+  <text x="350" y="132" font-family="Georgia, serif" font-size="7" fill="#C9A84C" fill-opacity="0.2" text-anchor="middle" letter-spacing="5">VERITAS</text>
+</svg>

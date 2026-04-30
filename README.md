@@ -124,12 +124,7 @@ Started with cleanroom certification (NSF/ANSI 49, ISO 14644) and NASA-contracte
 
 <div align="center">
 
-### Looking for work
-
-Open to full-time roles, contract engagements, and founding engineer positions.
-Strongest in AI infrastructure, verification systems, and full-stack product work.
-
-[**Resume**](https://vrtxomega.github.io/veritas-portfolio/) &nbsp;·&nbsp; [**Email**](mailto:VrtxOmega@pm.me) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/rjlopezai)
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-engagement.svg" width="700" alt="Open to Work — Sovereign AI Infrastructure Builder"/>
 
 <br>
 
