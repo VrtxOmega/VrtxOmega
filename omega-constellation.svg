@@ -2,25 +2,15 @@
   <defs>
     <filter id="starGlow">
       <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="coreGlow">
       <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="threadGlow">
       <feGaussianBlur stdDeviation="1" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <radialGradient id="coreAura" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#FFD700" stop-opacity="0.15"/>
@@ -28,69 +18,37 @@
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <!-- Background -->
   <rect width="800" height="440" fill="#000000"/>
-
-  <!-- Constellation title -->
   <text x="400" y="28" font-family="Georgia, serif" font-size="14" fill="#C9A84C" text-anchor="middle" letter-spacing="4" fill-opacity="0.7">Ω UNIVERSE CONSTELLATION</text>
-
-  <!-- Core Ω aura pulsing -->
   <ellipse cx="400" cy="230" rx="120" ry="100" fill="url(#coreAura)">
     <animate attributeName="rx" values="120;135;120" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="ry" values="100;110;100" dur="4s" repeatCount="indefinite"/>
   </ellipse>
-
-  <!-- === CONNECTIVE THREADS === -->
   <g filter="url(#threadGlow)" stroke="#FFD700" stroke-width="0.5" stroke-opacity="0.25" fill="none">
     <animate attributeName="stroke-opacity" values="0.25;0.4;0.25" dur="5s" repeatCount="indefinite"/>
-
-    <!-- omega-brain-mcp to core -->
-    <line x1="260" y1="170" x2="400" y2="230">
+    <line x1="260" y1="170" x2="540" y2="150" stroke-opacity="0.25">
       <animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="3.7s" repeatCount="indefinite"/>
     </line>
-
-    <!-- Ollama-Omega to core -->
-    <line x1="540" y1="150" x2="400" y2="230"/>
-
-    <!-- Gravity-Omega to core -->
-    <line x1="400" y1="80" x2="400" y2="230"/>
-
-    <!-- Aegis to core -->
-    <line x1="220" y1="330" x2="400" y2="230"/>
-
-    <!-- OmegaWallet to core -->
-    <line x1="580" y1="310" x2="400" y2="230"/>
-
-    <!-- SovereignMedia to core -->
-    <line x1="660" y1="210" x2="400" y2="230"/>
-
-    <!-- veritas-portfolio to core -->
-    <line x1="130" y1="190" x2="400" y2="230"/>
-
-    <!-- hermes-sentinel to core -->
-    <line x1="160" y1="100" x2="400" y2="230"/>
-
-    <!-- sovereign-arcade to core -->
-    <line x1="620" y1="90" x2="400" y2="230"/>
-
-    <!-- sovereign-docs to core -->
-    <line x1="400" y1="380" x2="400" y2="230"/>
-
-    <!-- Cross-connections: omega-brain-mcp to Ollama-Omega -->
-    <line x1="260" y1="170" x2="540" y2="150" stroke-opacity="0.15"/>
-
-    <!-- Gravity-Omega to Ollama-Omega -->
-    <line x1="400" y1="80" x2="540" y2="150" stroke-opacity="0.12"/>
-
-    <!-- Aegis to hermes-sentinel -->
-    <line x1="220" y1="330" x2="160" y2="100" stroke-opacity="0.12"/>
-
-    <!-- OmegaWallet to SovereignMedia -->
-    <line x1="580" y1="310" x2="660" y2="210" stroke-opacity="0.12"/>
+    <line x1="540" y1="150" x2="400" y2="80" stroke-opacity="0.15">
+    </line>
+    <line x1="400" y1="80" x2="220" y2="330" stroke-opacity="0.15">
+    </line>
+    <line x1="220" y1="330" x2="160" y2="100" stroke-opacity="0.15">
+    </line>
+    <line x1="580" y1="310" x2="660" y2="210" stroke-opacity="0.15">
+    </line>
+    <line x1="130" y1="190" x2="400" y2="380" stroke-opacity="0.15">
+    </line>
+    <line x1="130" y1="190" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="580" y1="310" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="400" y1="80" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="400" y1="380" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="660" y1="210" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="620" y1="90" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="220" y1="330" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="160" y1="100" x2="400" y2="230" stroke-opacity="0.12"/>
+    <line x1="540" y1="150" x2="400" y2="230" stroke-opacity="0.12"/>
   </g>
-
-  <!-- === ORBIT RINGS === -->
   <g fill="none" stroke="#FFD700" stroke-width="0.3" stroke-opacity="0.10">
     <ellipse cx="400" cy="230" rx="200" ry="160">
       <animateTransform attributeName="transform" type="rotate" from="0 400 230" to="360 400 230" dur="60s" repeatCount="indefinite"/>
@@ -99,112 +57,83 @@
       <animateTransform attributeName="transform" type="rotate" from="360 400 230" to="0 400 230" dur="40s" repeatCount="indefinite"/>
     </ellipse>
   </g>
-
-  <!-- === STARS === -->
-
-  <!-- Center Ω - the core -->
   <g filter="url(#coreGlow)">
-    <text x="400" y="240" font-family="Georgia, serif" font-size="36" fill="#FFD700" text-anchor="middle" font-weight="bold">
-      Ω
+    <text x="400" y="240" font-family="Georgia, serif" font-size="36" fill="#FFD700" text-anchor="middle" font-weight="bold">Ω
       <animate attributeName="font-size" values="36;38;36" dur="4s" repeatCount="indefinite"/>
       <animate attributeName="fill-opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite"/>
     </text>
-    <text x="400" y="258" font-family="Georgia, serif" font-size="9" fill="#C9A84C" text-anchor="middle" letter-spacing="2" fill-opacity="0.7">
-      VERITAS CORE
-    </text>
+    <text x="400" y="258" font-family="Georgia, serif" font-size="9" fill="#C9A84C" text-anchor="middle" letter-spacing="2" fill-opacity="0.7">VERITAS CORE</text>
   </g>
-
-  <!-- omega-brain-mcp -->
   <g filter="url(#starGlow)">
-    <circle cx="260" cy="170" r="5" fill="#FFD700">
-      <animate attributeName="r" values="5;7;5" dur="2.8s" repeatCount="indefinite"/>
+    <circle cx="130" cy="190" r="4.5" fill="#FFD700">
+      <animate attributeName="r" values="4.5;6.5;4.5" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="130" y="175" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">veritas-portfolio</text>
+    <text x="130" y="212" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Evidence Index</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="260" cy="170" r="6.0" fill="#FFD700">
+      <animate attributeName="r" values="6.0;8.0;6.0" dur="2.5s" repeatCount="indefinite"/>
     </circle>
     <text x="260" y="155" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">omega-brain-mcp</text>
     <text x="260" y="192" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Governance Core · AAA</text>
   </g>
-
-  <!-- Ollama-Omega -->
   <g filter="url(#starGlow)">
-    <circle cx="540" cy="150" r="4.5" fill="#FFD700">
+    <circle cx="580" cy="310" r="5.5" fill="#FFD700">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="580" y="295" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">OmegaWallet</text>
+    <text x="580" y="332" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Desktop Wallet · 141/141</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="400" cy="80" r="5.5" fill="#FFD700">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="400" y="65" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">Gravity-Omega</text>
+    <text x="400" y="102" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">AI-Powered IDE</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="400" cy="380" r="4.5" fill="#FFD700">
+      <animate attributeName="r" values="4.5;6.5;4.5" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="400" y="365" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">sovereign-docs</text>
+    <text x="400" y="402" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">VERITAS Documentation</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="660" cy="210" r="5.5" fill="#FFD700">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="660" y="195" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">SovereignMedia</text>
+    <text x="660" y="232" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Shipped Product</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="620" cy="90" r="4.5" fill="#FFD700">
       <animate attributeName="r" values="4.5;6.5;4.5" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="620" y="75" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">sovereign-arcade</text>
+    <text x="620" y="112" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Games Platform</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="220" cy="330" r="5.5" fill="#FFD700">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="220" y="315" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">Aegis</text>
+    <text x="220" y="352" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Security Suite</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="160" cy="100" r="4.5" fill="#FFD700">
+      <animate attributeName="r" values="4.5;6.5;4.5" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="160" y="85" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">hermes-sentinel</text>
+    <text x="160" y="122" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Security MCP</text>
+  </g>
+  <g filter="url(#starGlow)">
+    <circle cx="540" cy="150" r="5.5" fill="#FFD700">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="3.2s" repeatCount="indefinite"/>
     </circle>
     <text x="540" y="135" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">Ollama-Omega</text>
     <text x="540" y="172" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Sovereign Bridge</text>
   </g>
-
-  <!-- Gravity-Omega -->
-  <g filter="url(#starGlow)">
-    <circle cx="400" cy="80" r="5" fill="#FFD700">
-      <animate attributeName="r" values="5;7.5;5" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <text x="400" y="65" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">Gravity-Omega</text>
-    <text x="400" y="98" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">AI-Powered IDE</text>
-  </g>
-
-  <!-- Aegis -->
-  <g filter="url(#starGlow)">
-    <circle cx="220" cy="330" r="4" fill="#FFD700">
-      <animate attributeName="r" values="4;6;4" dur="3.4s" repeatCount="indefinite"/>
-    </circle>
-    <text x="220" y="315" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">Aegis</text>
-    <text x="220" y="350" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Security Suite</text>
-  </g>
-
-  <!-- OmegaWallet -->
-  <g filter="url(#starGlow)">
-    <circle cx="580" cy="310" r="4.5" fill="#FFD700">
-      <animate attributeName="r" values="4.5;6.2;4.5" dur="3.6s" repeatCount="indefinite"/>
-    </circle>
-    <text x="580" y="295" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">OmegaWallet</text>
-    <text x="580" y="330" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Desktop Wallet · 141/141</text>
-  </g>
-
-  <!-- SovereignMedia -->
-  <g filter="url(#starGlow)">
-    <circle cx="660" cy="210" r="4" fill="#FFD700">
-      <animate attributeName="r" values="4;5.5;4" dur="2.9s" repeatCount="indefinite"/>
-    </circle>
-    <text x="660" y="195" font-family="Georgia, serif" font-size="10" fill="#FFD700" text-anchor="middle" fill-opacity="0.9">SovereignMedia</text>
-    <text x="660" y="230" font-family="Georgia, serif" font-size="8" fill="#C9A84C" text-anchor="middle" fill-opacity="0.6">Shipped Product</text>
-  </g>
-
-  <!-- veritas-portfolio -->
-  <g filter="url(#starGlow)">
-    <circle cx="130" cy="190" r="3.5" fill="#FFD700">
-      <animate attributeName="r" values="3.5;5;3.5" dur="3.3s" repeatCount="indefinite"/>
-    </circle>
-    <text x="130" y="175" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.85">veritas-portfolio</text>
-    <text x="130" y="208" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.55">Evidence Index</text>
-  </g>
-
-  <!-- hermes-sentinel -->
-  <g filter="url(#starGlow)">
-    <circle cx="160" cy="100" r="3.5" fill="#FFD700">
-      <animate attributeName="r" values="3.5;5.2;3.5" dur="3.9s" repeatCount="indefinite"/>
-    </circle>
-    <text x="160" y="85" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.85">hermes-sentinel</text>
-    <text x="160" y="118" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.55">Security MCP</text>
-  </g>
-
-  <!-- sovereign-arcade -->
-  <g filter="url(#starGlow)">
-    <circle cx="620" cy="90" r="3" fill="#FFD700">
-      <animate attributeName="r" values="3;4.5;3" dur="3.2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="620" y="75" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.85">sovereign-arcade</text>
-    <text x="620" y="108" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.55">Games Platform</text>
-  </g>
-
-  <!-- sovereign-docs -->
-  <g filter="url(#starGlow)">
-    <circle cx="400" cy="380" r="3.5" fill="#FFD700">
-      <animate attributeName="r" values="3.5;5;3.5" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <text x="400" y="365" font-family="Georgia, serif" font-size="9" fill="#FFD700" text-anchor="middle" fill-opacity="0.85">sovereign-docs</text>
-    <text x="400" y="400" font-family="Georgia, serif" font-size="7" fill="#C9A84C" text-anchor="middle" fill-opacity="0.55">VERITAS Documentation</text>
-  </g>
-
-  <!-- Bottom metrics -->
   <g font-family="Georgia, serif" fill="#C9A84C" text-anchor="middle">
     <text x="200" y="430" font-size="10" fill-opacity="0.6">
       <tspan fill="#FFD700" fill-opacity="0.9" font-size="14">32</tspan> REPOSITORIES
