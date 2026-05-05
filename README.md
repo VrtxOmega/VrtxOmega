@@ -29,17 +29,17 @@
 <br><br>
 
 <!-- Mission Crawl -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="900" alt="VERITAS Mission Crawl"/>
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="850" alt="VERITAS Mission Crawl"/>
 
 <br><br>
 
 <!-- Constellation -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="800" alt="Omega Universe Constellation"/>
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="850" alt="Omega Universe Constellation"/>
 
 <br><br>
 
 <!-- Omega Pulse -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="880" alt="Omega Pulse Contribution Grid"/>
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="850" alt="Omega Pulse Contribution Grid"/>
 
 <br><br>
 
