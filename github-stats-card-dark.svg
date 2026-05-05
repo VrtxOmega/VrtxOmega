@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FFD700" stop-opacity="0.4"/><stop offset="100%" stop-color="#C9A84C" stop-opacity="0.9"/></linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#000000" stop-opacity="0"/><stop offset="40%" stop-color="#FFD700" stop-opacity="0.08"/><stop offset="50%" stop-color="#FFD700" stop-opacity="0.35"/><stop offset="60%" stop-color="#FFD700" stop-opacity="0.08"/><stop offset="100%" stop-color="#000000" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="850" height="220" fill="#000000"/>
+  <text x="40" y="32" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#FFD700" letter-spacing="3">
+    Omega VERITAS - Live Telemetry
+    <animate attributeName="fill-opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <line x1="40" y1="42" x2="810" y2="42" stroke="#30363d" stroke-width="1"/>
+  
+  <g transform="translate(40, 65)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">REPOSITORIES</text>
+    <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
+      32
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(190, 65)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">COMMITS</text>
+    <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
+      500+
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(340, 65)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">STARS</text>
+    <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
+      * 100+
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(490, 65)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">PULL REQUESTS</text>
+    <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
+      85+
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(660, 65)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">BUILD STREAK</text>
+    <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
+      90+
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.7s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(40, 130)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">PRIMARY LANGUAGES</text>
+    
+    <text font-family="Georgia, serif" font-size="13" fill="#c9d1d9" y="24">Python</text>
+    <rect x="90" y="15" width="280" height="8" rx="4" fill="#161b22"/>
+    <rect x="90" y="15" width="220" height="8" rx="4" fill="url(#barGrad)">
+      <animate attributeName="width" values="0;220" dur="1.5s" begin="0.0s" fill="freeze"/>
+    </rect>
+    <text font-family="Georgia, serif" font-size="10" fill="#FFD700" x="380" y="24">62%</text>
+    <text font-family="Georgia, serif" font-size="13" fill="#c9d1d9" y="44">JavaScript</text>
+    <rect x="90" y="35" width="280" height="8" rx="4" fill="#161b22"/>
+    <rect x="90" y="35" width="180" height="8" rx="4" fill="url(#barGrad)">
+      <animate attributeName="width" values="0;180" dur="1.5s" begin="0.2s" fill="freeze"/>
+    </rect>
+    <text font-family="Georgia, serif" font-size="10" fill="#FFD700" x="380" y="44">32%</text>
+    <text font-family="Georgia, serif" font-size="13" fill="#c9d1d9" y="64">Kotlin</text>
+    <rect x="90" y="55" width="280" height="8" rx="4" fill="#161b22"/>
+    <rect x="90" y="55" width="56" height="8" rx="4" fill="url(#barGrad)">
+      <animate attributeName="width" values="0;56" dur="1.5s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <text font-family="Georgia, serif" font-size="10" fill="#FFD700" x="380" y="64">6%</text>
+  </g>
+  <g transform="translate(600, 110)">
+    <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2" text-anchor="middle">ECOSYSTEM</text>
+    <g opacity="0.3">
+      <ellipse cx="0" cy="45" rx="60" ry="45" fill="none" stroke="#FFD700" stroke-width="0.5">
+        <animateTransform type="rotate" from="0 0 45" to="360 0 45" dur="60s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="45" rx="40" ry="32" fill="none" stroke="#FFD700" stroke-width="0.5">
+        <animateTransform type="rotate" from="360 0 45" to="0 0 45" dur="45s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="45" rx="20" ry="16" fill="none" stroke="#FFD700" stroke-width="0.5">
+        <animateTransform type="rotate" from="0 0 45" to="360 0 45" dur="30s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <text x="-5" y="55" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" opacity="0.8">
+      Omega
+      <animate attributeName="fill-opacity" values="0.5;0.9;0.5" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0" y="210" width="850" height="10" fill="#000000"/>
+  <rect x="-100" y="210" width="300" height="10" fill="url(#shimmer)">
+    <animateTransform type="translate" values="-300,0; 1000,0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

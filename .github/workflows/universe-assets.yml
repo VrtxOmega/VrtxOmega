@@ -1,0 +1,34 @@
+name: Universe Assets - Constellation and Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'generate_constellation.py'
+      - 'generate_dark_variants.py'
+      - '.github/workflows/universe-assets.yml'
+
+jobs:
+  update-universe:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 generate_constellation.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python3 generate_dark_variants.py
+      - run: |
+          git config user.name 'Omega VERITAS Bot'
+          git config user.email 'omega@veritas.ai'
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add .
+            git commit -m 'Omega Universe assets regenerated [skip ci]'
+            git push
+          fi
