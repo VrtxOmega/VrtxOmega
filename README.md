@@ -45,8 +45,8 @@
 
 <!-- Live Stats Card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-stats-card-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
 </picture>
 
 </div>
