@@ -57,7 +57,7 @@
 
 | | |
 |:---|:---|
-| **14 weeks** | Zero code &rarr; 35 interconnected repositories |
+| **12 weeks** | Zero code → 35 interconnected repositories |
 | **141/141** | Adversarial tests passed on <a href="https://github.com/VrtxOmega/OmegaWallet/blob/main/SECURITY_VALIDATION.md">OmegaWallet</a> |
 | **Triple-A** | Security &middot; License &middot; Quality - <a href="https://glama.ai/mcp/servers/VrtxOmega/omega-brain-mcp">Glama MCP Registry</a> |
 | **Started** | February 12, 2026 - shipping code daily since |
