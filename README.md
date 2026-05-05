@@ -2,9 +2,9 @@
 
 <!-- VERITAS Sovereign AI Infrastructure Builder -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
 </picture>
 
 <br>
@@ -62,6 +62,7 @@
 |:---|:---|
 | **12 weeks** | Zero code → 35 interconnected repositories |
 | **141/141** | Adversarial tests passed on <a href="https://github.com/VrtxOmega/OmegaWallet/blob/main/SECURITY_VALIDATION.md">OmegaWallet</a> |
+| **&#x1F948; 2nd Place** | VibeJam 2026 &middot; "Choose Your Own Stack" &middot; <a href="https://github.com/VrtxOmega/breakaway">Breakaway</a> &mdash; zero-dependency, browser-native, SHA-256 verified credentialing engine |
 | **Triple-A** | Security &middot; License &middot; Quality - <a href="https://glama.ai/mcp/servers/VrtxOmega/omega-brain-mcp">Glama MCP Registry</a> |
 | **Started** | February 12, 2026 - shipping code daily since |
 | **Before code** | Cleanroom certification (NSF/ANSI 49, ISO 14644) &middot; NASA-contracted thermal spray |
@@ -74,15 +75,16 @@
 ## If You Only Have 5 Minutes
 
 <blockquote>
-<b>1.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> - Governance core. 10-gate VERITAS pipeline (deterministic build validation), cryptographic audit ledger, Cortex approval gate (human-in-the-loop before AI executes). Two files, one dependency. Triple-A on Glama.<br><br>
-<b>2.</b> &nbsp; <a href="https://github.com/VrtxOmega/OmegaWallet"><b>OmegaWallet</b></a> - Desktop Ethereum wallet. Renderer-cannot-sign architecture. 141/141 adversarial tests passed. ERC-4337 + Cerberus scanner.<br><br>
-<b>3.</b> &nbsp; <a href="https://github.com/VrtxOmega/SovereignMedia"><b>SovereignMedia</b></a> - Shipped desktop product. All-in-one local media platform with cinematic UI.<br><br>
-<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> - AI-powered IDE. Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine (Visual · Thinking · Production workflow routing), multi-model LLM routing.
+<b>1.</b> &nbsp; <a href="https://github.com/VrtxOmega/breakaway"><b>Breakaway</b></a> &mdash; &#x1F948; VibeJam 2026 &middot; Zero-dependency, browser-native credentialing engine. Tamper-proof, SHA-256 verified skill credentials through real cognitive challenges &mdash; not multiple choice trivia. <a href="https://vrtxomega.github.io/breakaway/">Live &rarr;</a><br><br>
+<b>2.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> - Governance core. 10-gate VERITAS pipeline (deterministic build validation), cryptographic audit ledger, Cortex approval gate (human-in-the-loop before AI executes). Two files, one dependency. Triple-A on Glama.<br><br>
+<b>3.</b> &nbsp; <a href="https://github.com/VrtxOmega/OmegaWallet"><b>OmegaWallet</b></a> - Desktop Ethereum wallet. Renderer-cannot-sign architecture. 141/141 adversarial tests passed. ERC-4337 + Cerberus scanner.<br><br>
+<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/SovereignMedia"><b>SovereignMedia</b></a> - Shipped desktop product. All-in-one local media platform with cinematic UI.<br><br>
+<b>5.</b> &nbsp; <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> - AI-powered IDE. Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine (Visual · Thinking · Production workflow routing), multi-model LLM routing.
 </blockquote>
 
 ### Live Demos
 
-<a href="https://vrtxomega.github.io/drift/"><img src="https://img.shields.io/badge/%E2%89%8B_drift-3D_GitHub_Universe-d4af37?style=flat&amp;labelColor=000000&amp;logo=three.js&amp;logoColor=FFD700" alt="drift"></a>
+<a href="https://vrtxomega.github.io/breakaway/"><img src="https://img.shields.io/badge/%F0%9F%A5%88_Breakaway-VibeJam_2026_%C2%B7_2nd_Place-d4af37?style=flat&amp;labelColor=000000" alt="Breakaway"></a>
 <a href="https://vrtxomega.github.io/shiftforge/"><img src="https://img.shields.io/badge/%E2%8C%9A_shiftforge-Smart_Scheduler-d4af37?style=flat&amp;labelColor=000000&amp;logo=clock&amp;logoColor=FFD700" alt="shiftforge"></a>
 <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/%E2%97%88_portfolio-Evidence_Index-d4af37?style=flat&amp;labelColor=000000&amp;logo=databricks&amp;logoColor=FFD700" alt="portfolio"></a>
 
@@ -95,6 +97,7 @@
 
 | Repository | What It Does |
 |-----------|-------------|
+| <a href="https://github.com/VrtxOmega/breakaway"><b>breakaway</b></a> | &#x1F948; VibeJam 2026 "Choose Your Own Stack" 2nd Place &middot; Zero-dependency, browser-native credentialing engine. SHA-256 verified skill credentials via real cognitive challenges. <a href="https://vrtxomega.github.io/breakaway/">Live &rarr;</a> |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> | Standalone MCP server - 10-gate VERITAS build pipeline, cross-session memory, cryptographic audit ledger, Cortex approval gate. Two files, one dependency. |
 | <a href="https://github.com/VrtxOmega/Ollama-Omega"><b>Ollama-Omega</b></a> | Sovereign Ollama bridge - 6 MCP tools for local and cloud model inference. Single file, two deps. |
 | <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> | AI-powered IDE - Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine, multi-model LLM routing. |
