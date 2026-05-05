@@ -2,9 +2,9 @@
 
 <!-- VERITAS Sovereign AI Infrastructure Builder -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=36&amp;duration=2800&amp;pause=1000&amp;color=FFD700&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=36&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=36&amp;duration=2800&amp;pause=1000&amp;color=FFD700&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
 </picture>
 
 <br>
