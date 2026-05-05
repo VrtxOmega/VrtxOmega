@@ -49,6 +49,9 @@
   <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
 </picture>
 
+<!-- Tech Stack -->
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-stack.svg" width="850" alt="Tech Stack"/>
+
 </div>
 
 ---

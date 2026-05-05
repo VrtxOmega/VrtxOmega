@@ -15,7 +15,7 @@
   <g transform="translate(40, 65)">
     <text font-family="Georgia, serif" font-size="11" fill="#8b949e" letter-spacing="2">REPOSITORIES</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
-      32
+      35
       <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.8s" repeatCount="indefinite"/>
     </text>
   </g>
