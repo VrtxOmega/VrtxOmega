@@ -2,9 +2,9 @@
 
 <!-- VERITAS Sovereign AI Infrastructure Builder -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;32+Repos+%C2%B7+14+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
+  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;35+Repos+%C2%B7+12+Weeks+%C2%B7+Zero+to+Ship;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
 </picture>
 
 <br>
@@ -57,10 +57,10 @@
 
 | | |
 |:---|:---|
-| **14 weeks** | Zero code &rarr; 32 interconnected repositories |
+| **14 weeks** | Zero code &rarr; 35 interconnected repositories |
 | **141/141** | Adversarial tests passed on <a href="https://github.com/VrtxOmega/OmegaWallet/blob/main/SECURITY_VALIDATION.md">OmegaWallet</a> |
 | **Triple-A** | Security &middot; License &middot; Quality - <a href="https://glama.ai/mcp/servers/VrtxOmega/omega-brain-mcp">Glama MCP Registry</a> |
-| **Started** | April 1, 2026 - shipping code daily since |
+| **Started** | February 12, 2026 - shipping code daily since |
 | **Before code** | Cleanroom certification (NSF/ANSI 49, ISO 14644) &middot; NASA-contracted thermal spray |
 | **No CS degree** | Audit-chain instinct came from the cleanroom floor, not a lecture hall |
 
@@ -160,6 +160,6 @@
 
 <br>
 
-<sub><em>Started from zero ~14 weeks ago. The full Omega Universe was designed and built in that window.</em></sub>
+<sub><em>Started from zero ~12 weeks ago. The full Omega Universe was designed and built in that window.</em></sub>
 
 </div>

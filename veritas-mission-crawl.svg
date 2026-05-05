@@ -36,7 +36,7 @@
 
   <g clip-path="url(#scrollBox)">
     <text font-family="Georgia, serif" font-size="10" fill="#C9A84C" fill-opacity="0.5" letter-spacing="3">
-      VERITAS · 32 REPOSITORIES · 10-GATE BUILD PIPELINE · CRYPTOGRAPHIC AUDIT LEDGER · SSWP ATTESTATION · SOVEREIGN AI
+      VERITAS · 35 REPOSITORIES · 10-GATE BUILD PIPELINE · CRYPTOGRAPHIC AUDIT LEDGER · SSWP ATTESTATION · SOVEREIGN AI
       <animateTransform attributeName="transform" type="translate"
         values="850,32;-2100,32" dur="24s" repeatCount="indefinite"/>
     </text>
