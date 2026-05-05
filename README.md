@@ -74,10 +74,10 @@
 ## If You Only Have 5 Minutes
 
 <blockquote>
-<b>1.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> - Governance core. 10-gate VERITAS pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency. Triple-A on Glama.<br><br>
+<b>1.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> - Governance core. 10-gate VERITAS pipeline (deterministic build validation), cryptographic audit ledger, Cortex approval gate (human-in-the-loop before AI executes). Two files, one dependency. Triple-A on Glama.<br><br>
 <b>2.</b> &nbsp; <a href="https://github.com/VrtxOmega/OmegaWallet"><b>OmegaWallet</b></a> - Desktop Ethereum wallet. Renderer-cannot-sign architecture. 141/141 adversarial tests passed. ERC-4337 + Cerberus scanner.<br><br>
 <b>3.</b> &nbsp; <a href="https://github.com/VrtxOmega/SovereignMedia"><b>SovereignMedia</b></a> - Shipped desktop product. All-in-one local media platform with cinematic UI.<br><br>
-<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> - AI-powered IDE. Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine, multi-model LLM routing.
+<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> - AI-powered IDE. Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine (Visual · Thinking · Production workflow routing), multi-model LLM routing.
 </blockquote>
 
 ### Live Demos
