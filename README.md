@@ -102,16 +102,6 @@ Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory
 
 <br><br>
 
-<!-- Constellation -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="850" alt="Omega Universe Constellation"/>
-
-<br><br>
-
-<!-- Omega Pulse -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="850" alt="Omega Pulse Contribution Grid"/>
-
-<br><br>
-
 <!-- Live Stats Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card-dark.svg" />
