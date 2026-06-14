@@ -23,14 +23,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
-  <img src="https://img.shields.io/badge/10_MERGED_EXTERNAL_PRS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="10 merged external PRs">
+  <img src="https://img.shields.io/badge/11_MERGED_EXTERNAL_PRS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="11 merged external PRs">
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
 | <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| <b>10 merged external PRs</b> | Live GitHub readback confirms merges across Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, and awesome-mcp-servers. |
+| <b>11 merged external PRs</b> | Live GitHub readback confirms merges across Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, and awesome-mcp-servers. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
@@ -44,7 +44,7 @@
 
 | Start Here | What To Look For |
 |:---|:---|
-| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 10-PR readback and formal QA link. |
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 11-PR readback and formal QA link. |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/directory_proof-2_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="2 directory proof merges">
-  <img src="https://img.shields.io/badge/codex_linux-2_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="2 Codex Linux merges">
+  <img src="https://img.shields.io/badge/codex_linux-3_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="3 Codex Linux merges">
   <img src="https://img.shields.io/badge/PCF--era-6_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="6 PCF-era merges">
 </p>
 
@@ -77,6 +77,7 @@
 | <a href="https://github.com/ansvisor/ansvisor/pull/235"><b>Ansvisor #235</b></a> | Grouped insights results by platform to avoid provider model slug drift. |
 | <a href="https://github.com/amber-lang/amber/pull/1116"><b>Amber #1116</b></a> | Added `-r` to generated shell-version prelude reads for ShellCheck warning coverage. |
 | <a href="https://github.com/koalaman/shellcheck/pull/3484"><b>ShellCheck #3484</b></a> | Excluded `_` from subshell assignment warnings. |
+| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/495"><b>codex-desktop-linux #495</b></a> | Fixed Linux feature parity for the Codex 26.609 app bundle. |
 | <a href="https://github.com/ilysenko/codex-desktop-linux/pull/302"><b>codex-desktop-linux #302</b></a> | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
 | <a href="https://github.com/ilysenko/codex-desktop-linux/pull/236"><b>codex-desktop-linux #236</b></a> | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
 | <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4922"><b>awesome-mcp-servers #4922</b></a> | Added VrtxOmega/Ollama-Omega to the Tools section. |
