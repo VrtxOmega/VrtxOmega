@@ -17,45 +17,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br><br>
-
-<!-- Mission Crawl -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="850" alt="VERITAS Mission Crawl"/>
-
-<br><br>
-
-<!-- Constellation -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="850" alt="Omega Universe Constellation"/>
-
-<br><br>
-
-<!-- Omega Pulse -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="850" alt="Omega Pulse Contribution Grid"/>
-
-<br><br>
-
-<!-- Live Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
-</picture>
-
-<!-- Tech Stack -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-stack.svg" width="850" alt="Tech Stack"/>
-
-</div>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-01-signal.svg" width="850" alt="Current Signal"/>
 </p>
@@ -122,6 +83,45 @@
 | <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4539"><b>awesome-mcp-servers #4539</b></a> | Added omega-brain-mcp to Developer Tools. |
 
 Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf"><b>Sibyl Memory Plugin beta QA report</b></a>, a formal external QA deliverable for local-first agent memory.
+
+---
+
+<div align="center">
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br><br>
+
+<!-- Mission Crawl -->
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="850" alt="VERITAS Mission Crawl"/>
+
+<br><br>
+
+<!-- Constellation -->
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="850" alt="Omega Universe Constellation"/>
+
+<br><br>
+
+<!-- Omega Pulse -->
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="850" alt="Omega Pulse Contribution Grid"/>
+
+<br><br>
+
+<!-- Live Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
+</picture>
+
+<!-- Tech Stack -->
+<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-stack.svg" width="850" alt="Tech Stack"/>
+
+</div>
 
 ---
 
