@@ -1,171 +1,117 @@
 <div align="center">
 
-<!-- VERITAS Sovereign AI Infrastructure Builder -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-  <img alt="RJ Lopez - Sovereign AI Infrastructure Builder" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Sovereign+AI+%2F+Infrastructure+Builder;%232+VibeJam+2026+%C2%B7+Choose+Your+Own+Stack;Deterministic+Validation+%C2%B7+Local-First+%C2%B7+Zero+Telemetry" />
-</picture>
+# RJ Lopez
 
-<br>
+**Builder-operator for local-first agent systems.**
 
-[&#x1F680;&nbsp;<b>Portfolio</b>](https://vrtxomega.github.io/veritas-portfolio/)&nbsp;&middot;&nbsp;[&#x2709;&nbsp;<b>Email</b>](mailto:VrtxOmega@pm.me)&nbsp;&middot;&nbsp;[&#x1F426;&nbsp;<b>X</b>](https://twitter.com/RJLopezAI)&nbsp;&middot;&nbsp;[&#x1F465;&nbsp;<b>LinkedIn</b>](https://linkedin.com/in/rjlopezai)
+I build systems that are meant to be operated, inspected, approved, tested, and recovered -- not just demoed.
 
-&#x1F4CD; Illinois
+[Portfolio](https://vrtxomega.github.io/veritas-portfolio/) | [Email](mailto:VrtxOmega@pm.me) | [LinkedIn](https://linkedin.com/in/rjlopezai) | [X](https://x.com/Rj_Lopez_)
+
+Illinois | available for agent systems, devtools, verification, Linux, Android, and local-first automation work
 
 </div>
 
 ---
 
-<div align="center">
+## Current Signal
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+| Proof | Evidence |
+|---|---|
+| 6 shipped proof points | [Portfolio](https://vrtxomega.github.io/veritas-portfolio/) covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
+| 7 merged external PRs | Two pre-PCF Codex Desktop Linux PRs plus five upstream PRs after adopting Premature Contribution Firewall. |
+| 1 formal QA report | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 
-<br><br>
-
-<!-- Mission Crawl -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-mission-crawl.svg" width="850" alt="VERITAS Mission Crawl"/>
-
-<br><br>
-
-<!-- Constellation -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-constellation.svg" width="850" alt="Omega Universe Constellation"/>
-
-<br><br>
-
-<!-- Omega Pulse -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/omega-pulse.svg" width="850" alt="Omega Pulse Contribution Grid"/>
-
-<br><br>
-
-<!-- Live Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/github-stats-card.svg" width="850" alt="Live GitHub Stats"/>
-</picture>
-
-<!-- Tech Stack -->
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-stack.svg" width="850" alt="Tech Stack"/>
-
-</div>
+The through-line is not volume. It is review-readiness: narrow scope, issue fit, tests, logs, receipts, and a recovery path.
 
 ---
 
-## Origin
+## What I Build
 
-| | |
-|:---|:---|
-| **12 weeks** | Zero code → 35 interconnected repositories |
-| **141/141** | Adversarial tests passed on <a href="https://github.com/VrtxOmega/OmegaWallet/blob/main/SECURITY_VALIDATION.md">OmegaWallet</a> |
-| **&#x1F948; 2nd Place** | VibeJam 2026 &middot; "Choose Your Own Stack" &middot; <a href="https://github.com/VrtxOmega/breakaway">Breakaway</a> &mdash; zero-dependency, browser-native, SHA-256 verified credentialing engine |
-| **Triple-A** | Security &middot; License &middot; Quality - <a href="https://glama.ai/mcp/servers/VrtxOmega/omega-brain-mcp">Glama MCP Registry</a> |
-| **Started** | February 12, 2026 - shipping code daily since |
-| **Before code** | Cleanroom certification (NSF/ANSI 49, ISO 14644) &middot; NASA-contracted thermal spray |
-| **No CS degree** | Audit-chain instinct came from the cleanroom floor, not a lecture hall |
+- local-first AI and agent workflows
+- MCP and operator tooling
+- deterministic verification gates
+- audit trails and provenance
+- mobile and desktop control surfaces
+- Linux operator infrastructure
+- maintainer-ready open-source contributions
 
-<b>What this means:</b> I ship infrastructure that passes real tests. No slide decks, no vaporware. Every repo has a validation gate or it doesn't ship.
+Best-fit work: Forward Deployed Engineer, Agent Systems Engineer, Developer Tools Engineer, QA / Verification Engineer, Linux automation, Android systems, and technical support for complex developer products.
 
 ---
 
-## If You Only Have 5 Minutes
+## External Proof
 
-<blockquote>
-<b>1.</b> &nbsp; <a href="https://github.com/VrtxOmega/breakaway"><b>Breakaway</b></a> &mdash; &#x1F948; VibeJam 2026 &middot; Zero-dependency, browser-native credentialing engine. Tamper-proof, SHA-256 verified skill credentials through real cognitive challenges &mdash; not multiple choice trivia. <a href="https://vrtxomega.github.io/breakaway/">Live &rarr;</a><br><br>
-<b>2.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> - Governance core. 10-gate VERITAS pipeline (deterministic build validation), cryptographic audit ledger, Cortex approval gate (human-in-the-loop before AI executes). Two files, one dependency. Triple-A on Glama.<br><br>
-<b>3.</b> &nbsp; <a href="https://github.com/VrtxOmega/OmegaWallet"><b>OmegaWallet</b></a> - Desktop Ethereum wallet. Renderer-cannot-sign architecture. 141/141 adversarial tests passed. ERC-4337 + Cerberus scanner.<br><br>
-<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/SovereignMedia"><b>SovereignMedia</b></a> - Shipped desktop product. All-in-one local media platform with cinematic UI.<br><br>
-<b>5.</b> &nbsp; <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> - AI-powered IDE. Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine (Visual · Thinking · Production workflow routing), multi-model LLM routing.
-</blockquote>
+Merged external pull requests outside my own repos:
 
-### Live Demos
+| Project | Contribution |
+|---|---|
+| [codex-desktop-linux #236](https://github.com/ilysenko/codex-desktop-linux/pull/236) | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
+| [codex-desktop-linux #302](https://github.com/ilysenko/codex-desktop-linux/pull/302) | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
+| [ShellCheck #3484](https://github.com/koalaman/shellcheck/pull/3484) | Fixed underscore handling for SC2030/SC2031-style subshell assignment warnings. |
+| [Amber #1116](https://github.com/amber-lang/amber/pull/1116) | Added safer generated-shell prelude reads for ShellCheck SC2162. |
+| [Ansvisor #235](https://github.com/ansvisor/ansvisor/pull/235) | Grouped insight dashboard results by platform to avoid provider model slug drift. |
+| [Ansvisor #237](https://github.com/ansvisor/ansvisor/pull/237) | Applied the platform grouping fix to the prompt detail page. |
+| [Annotorious #610](https://github.com/annotorious/annotorious/pull/610) | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
 
-<a href="https://vrtxomega.github.io/breakaway/"><img src="https://img.shields.io/badge/%F0%9F%A5%88_Breakaway-VibeJam_2026_%C2%B7_2nd_Place-d4af37?style=flat&amp;labelColor=000000" alt="Breakaway"></a>
-<a href="https://vrtxomega.github.io/shiftforge/"><img src="https://img.shields.io/badge/%E2%8C%9A_shiftforge-Smart_Scheduler-d4af37?style=flat&amp;labelColor=000000&amp;logo=clock&amp;logoColor=FFD700" alt="shiftforge"></a>
-<a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/%E2%97%88_portfolio-Evidence_Index-d4af37?style=flat&amp;labelColor=000000&amp;logo=databricks&amp;logoColor=FFD700" alt="portfolio"></a>
-
----
-
-<details>
-<summary><b>Omega Universe - Full Ecosystem Map</b></summary><br>
-
-### Core
-
-| Repository | What It Does |
-|-----------|-------------|
-| <a href="https://github.com/VrtxOmega/breakaway"><b>breakaway</b></a> | &#x1F948; VibeJam 2026 "Choose Your Own Stack" 2nd Place &middot; Zero-dependency, browser-native credentialing engine. SHA-256 verified skill credentials via real cognitive challenges. <a href="https://vrtxomega.github.io/breakaway/">Live &rarr;</a> |
-| <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> | Standalone MCP server - 10-gate VERITAS build pipeline, cross-session memory, cryptographic audit ledger, Cortex approval gate. Two files, one dependency. |
-| <a href="https://github.com/VrtxOmega/Ollama-Omega"><b>Ollama-Omega</b></a> | Sovereign Ollama bridge - 6 MCP tools for local and cloud model inference. Single file, two deps. |
-| <a href="https://github.com/VrtxOmega/Gravity-Omega"><b>Gravity-Omega</b></a> | AI-powered IDE - Electron + Python backend with 60+ autonomous modules, Tri-Node VTP engine, multi-model LLM routing. |
-| <a href="https://github.com/VrtxOmega/Aegis"><b>Aegis</b></a> | Hardware governance and system security platform. |
-| <a href="https://github.com/VrtxOmega/aegis-rewrite"><b>aegis-rewrite</b></a> | Next-gen security scanner - two-tier deterministic + local LLM fix pipeline. |
-
-### Applications
-
-| Repository | What It Does |
-|-----------|-------------|
-| <a href="https://github.com/VrtxOmega/OmegaWallet"><b>OmegaWallet</b></a> | Desktop Ethereum wallet - renderer-cannot-sign, ERC-4337, Cerberus scanner, browser extension. |
-| <a href="https://github.com/VrtxOmega/sovereign-docs"><b>sovereign-docs</b></a> | Document generation - 7-format parallel export with cryptographic provenance. |
-| <a href="https://github.com/VrtxOmega/veritas-vault"><b>veritas-vault</b></a> | Local-first AI knowledge retention - SQLite + RAG, morning briefs, searchable memory. |
-| <a href="https://github.com/VrtxOmega/SovereignMedia"><b>SovereignMedia</b></a> | All-in-one desktop media platform - local playback with cinematic UI. |
-| <a href="https://github.com/VrtxOmega/shiftforge"><b>shiftforge</b></a> | Smart shift scheduler - compatibility optimization, role coverage. <a href="https://vrtxomega.github.io/shiftforge/">Live &rarr;</a> |
-| <a href="https://github.com/VrtxOmega/drift"><b>drift</b></a> | Real-time 3D GitHub activity visualization - Three.js star field, time scrubbing. <a href="https://vrtxomega.github.io/drift/">Live &rarr;</a> |
-| <a href="https://github.com/VrtxOmega/sovereign-arcade"><b>sovereign-arcade</b></a> | AAA web meta-arcade - premium UI, full JS persistence. |
-| <a href="https://github.com/VrtxOmega/sovereign-search-v2"><b>sovereign-search-v2</b></a> | Local-first Android search - on-device AI intent parsing, zero telemetry. |
-
-### Mobile and Sync
-
-| Repository | What It Does |
-|-----------|-------------|
-| <a href="https://github.com/VrtxOmega/OmegaMobile"><b>OmegaMobile</b></a> | Native Kotlin/JNI bridge for on-device Gemma 4 LLM execution. |
-| <a href="https://github.com/VrtxOmega/SovereignMediaMobile"><b>SovereignMediaMobile</b></a> | Mobile counterpart to SovereignMedia. |
-| <a href="https://github.com/VrtxOmega/SovereignBridge"><b>SovereignBridge</b></a> | E2EE data sync - real-time clipboard, file, photo sync via WebSocket. |
-
-### Portfolio and Spec
-
-| Repository | What It Does |
-|-----------|-------------|
-| <a href="https://github.com/VrtxOmega/veritas-portfolio"><b>veritas-portfolio</b></a> | Public evidence index - proof-of-work passport, live GitHub metrics. <a href="https://vrtxomega.github.io/veritas-portfolio/">Live &rarr;</a> |
-| <a href="https://github.com/VrtxOmega/VERITAS-Omega-CODE"><b>VERITAS-Omega-CODE</b></a> | Omega-CODE v2.0 - deterministic software verification specification. |
-
-</details>
+Also: [Sibyl Memory Plugin beta QA report](https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf), a formal external QA deliverable for local-first agent memory.
 
 ---
 
-## Doctrine
+## Featured Work
 
-<blockquote>
-<i>The pipeline does not determine what is true.</i><br>
-<i>It determines what survives disciplined attempts to falsify it.</i>
-</blockquote>
+| System | What it proves |
+|---|---|
+| [veritas-portfolio](https://github.com/VrtxOmega/veritas-portfolio) | Public evidence index for shipped proof points, external contributions, QA work, and operating principles. |
+| [hermes-mobile-android](https://github.com/VrtxOmega/hermes-mobile-android) | Android/Kotlin control surface for supervising agent infrastructure from a phone. |
+| [breakaway](https://github.com/VrtxOmega/breakaway) | Public product shipping, deterministic scoring, and SHA-256 sealed credential proof. |
+| [premature-contribution-firewall](https://github.com/VrtxOmega/premature-contribution-firewall) | Maintainer-grade PR intake: dry-run scoring, repo context, overlap checks, and reproducible proof gates. |
+| [omega-brain-mcp](https://github.com/VrtxOmega/omega-brain-mcp) | MCP governance core with memory, verification gates, audit ledger, and human approval flow. |
+| [coders-bible-desktop](https://github.com/VrtxOmega/coders-bible-desktop) | Offline Tauri/Rust knowledge engine with local search and no cloud dependency. |
+| [yubikey-fido2-linux-auth](https://github.com/VrtxOmega/yubikey-fido2-linux-auth) | Practical Linux hardening guide for FIDO2/U2F login, sudo, SSH, and recovery workflows. |
 
-| Principle | What It Means |
-|-----------|--------------|
-| <b>Local-First</b> | Offline operation is the default. Network access is scoped and opt-in. |
-| <b>Deterministic Validation</b> | AI outputs pass a multi-gate cryptographic audit. Unvalidated AI output is treated as an adversarial surface. |
-| <b>Zero Telemetry</b> | No external analytics, no cloud callbacks, no third-party data capture. |
-| <b>Operator Model</b> | The Cortex gate requires explicit operator approval before AI-generated actions execute. |
+Shell Trials and Omega SMC are documented in the [portfolio](https://vrtxomega.github.io/veritas-portfolio/) as proof of educational systems and operator infrastructure, even where the artifact is private or local-first by design.
 
 ---
 
-<div align="center">
+## Operating Principle
 
-<img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/veritas-engagement.svg" width="700" alt="Open to Work - Sovereign AI Infrastructure Builder"/>
+I do not treat AI output as truth.
 
-<br><br>
+I treat it as a claim.
 
-<a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> &nbsp;&middot;&nbsp; <a href="mailto:VrtxOmega@pm.me"><b>Email</b></a> &nbsp;&middot;&nbsp; <a href="https://linkedin.com/in/rjlopezai"><b>LinkedIn</b></a>
+A claim has to survive:
 
-<br>
+- local execution
+- repeatable tests
+- deterministic checks
+- logs and receipts
+- human approval at irreversible steps
+- documented recovery paths
 
-<img src="https://komarev.com/ghpvc/?username=VrtxOmega&amp;label=Profile+Views&amp;color=000000&amp;style=flat-square" alt="Profile Views" />
+That is the practical meaning of VERITAS in my work: local-first systems, inspectable actions, scoped network access, and verification before trust.
 
-<br>
+---
 
-<sub><em>Started from zero ~12 weeks ago. The full Omega Universe was designed and built in that window.</em></sub>
+## Background
 
-</div>
+Before software, I worked in cleanroom and industrial environments where mistakes have physical consequences: procedures, audits, containment, thermal spray, certification, quality control, and failure modes mattered before I ever touched a repo.
+
+That shaped how I build now. I care whether a system can be checked, operated, repaired, and trusted under pressure.
+
+---
+
+## Tools
+
+**Languages:** Python, TypeScript, JavaScript, Rust, Kotlin, Shell, Solidity  
+**Systems:** Linux, Android, Tauri, Electron, SQLite, GitHub Actions, Tailscale, YubiKey/FIDO2  
+**AI / agents:** MCP, local LLM workflows, verification gates, audit logs, approval surfaces  
+**Product surfaces:** desktop apps, mobile companions, local-first dashboards, documentation systems
+
+---
+
+## Contact
+
+I am open to roles, sponsorship, grants, credits, and technical partnerships around local-first agent infrastructure.
+
+[Portfolio](https://vrtxomega.github.io/veritas-portfolio/) | [Email](mailto:VrtxOmega@pm.me) | [LinkedIn](https://linkedin.com/in/rjlopezai) | [X](https://x.com/Rj_Lopez_)
