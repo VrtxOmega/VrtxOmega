@@ -62,14 +62,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
-  <img src="https://img.shields.io/badge/7_MERGED_EXTERNAL_PRS-maintainer_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="7 merged external PRs">
+  <img src="https://img.shields.io/badge/10_MERGED_EXTERNAL_PRS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="10 merged external PRs">
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
 | <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| <b>7 merged external PRs</b> | Two pre-PCF Codex Desktop Linux PRs plus five upstream PRs after adopting Premature Contribution Firewall. |
+| <b>10 merged external PRs</b> | Live GitHub readback confirms merges across Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, and awesome-mcp-servers. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
@@ -83,7 +83,7 @@
 
 | Start Here | What To Look For |
 |:---|:---|
-| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Six shipped proof points, seven external merged PRs, and one formal QA report in one place. |
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 10-PR readback and formal QA link. |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
@@ -103,19 +103,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pre--PCF-2_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="2 pre-PCF merges">
-  <img src="https://img.shields.io/badge/PCF--era-5_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="5 PCF-era merges">
+  <img src="https://img.shields.io/badge/directory_proof-2_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="2 directory proof merges">
+  <img src="https://img.shields.io/badge/codex_linux-2_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="2 Codex Linux merges">
+  <img src="https://img.shields.io/badge/PCF--era-6_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="6 PCF-era merges">
 </p>
 
 | Project | Contribution |
 |:---|:---|
-| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/236"><b>codex-desktop-linux #236</b></a> | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
-| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/302"><b>codex-desktop-linux #302</b></a> | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
-| <a href="https://github.com/koalaman/shellcheck/pull/3484"><b>ShellCheck #3484</b></a> | Fixed underscore handling for SC2030/SC2031-style subshell assignment warnings. |
-| <a href="https://github.com/amber-lang/amber/pull/1116"><b>Amber #1116</b></a> | Added safer generated-shell prelude reads for ShellCheck SC2162. |
-| <a href="https://github.com/ansvisor/ansvisor/pull/235"><b>Ansvisor #235</b></a> | Grouped insight dashboard results by platform to avoid provider model slug drift. |
-| <a href="https://github.com/ansvisor/ansvisor/pull/237"><b>Ansvisor #237</b></a> | Applied the platform grouping fix to the prompt detail page. |
+| <a href="https://github.com/karakeep-app/karakeep/pull/2863"><b>Karakeep #2863</b></a> | Fixed BROWSER_WEB_URL IPv6 host resolution. |
 | <a href="https://github.com/annotorious/annotorious/pull/610"><b>Annotorious #610</b></a> | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
+| <a href="https://github.com/ansvisor/ansvisor/pull/237"><b>Ansvisor #237</b></a> | Grouped prompt detail results by platform to avoid provider model slug drift. |
+| <a href="https://github.com/ansvisor/ansvisor/pull/235"><b>Ansvisor #235</b></a> | Grouped insights results by platform to avoid provider model slug drift. |
+| <a href="https://github.com/amber-lang/amber/pull/1116"><b>Amber #1116</b></a> | Added `-r` to generated shell-version prelude reads for ShellCheck warning coverage. |
+| <a href="https://github.com/koalaman/shellcheck/pull/3484"><b>ShellCheck #3484</b></a> | Excluded `_` from subshell assignment warnings. |
+| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/302"><b>codex-desktop-linux #302</b></a> | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
+| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/236"><b>codex-desktop-linux #236</b></a> | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
+| <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4922"><b>awesome-mcp-servers #4922</b></a> | Added VrtxOmega/Ollama-Omega to the Tools section. |
+| <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4539"><b>awesome-mcp-servers #4539</b></a> | Added omega-brain-mcp to Developer Tools. |
 
 Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf"><b>Sibyl Memory Plugin beta QA report</b></a>, a formal external QA deliverable for local-first agent memory.
 
