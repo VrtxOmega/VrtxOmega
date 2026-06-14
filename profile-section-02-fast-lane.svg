@@ -1,0 +1,21 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Five Minute Read</title>
+  <desc id="desc">Cyan profile section header for fast portfolio navigation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071019"/>
+      <stop offset="1" stop-color="#081B24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.54" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#155E75"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#38BDF8" stroke-opacity="0.62" stroke-width="2"/>
+  <path d="M22 70H828" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M757 27H818M757 39H795M757 51H808" stroke="#67E8F9" stroke-opacity="0.72" stroke-width="3" stroke-linecap="round"/>
+  <text x="28" y="30" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">02 / FAST LANE</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">If You Only Have 5 Minutes</text>
+  <text x="506" y="58" fill="#B8C7D9" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">start here, then go deeper</text>
+</svg>

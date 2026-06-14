@@ -2,9 +2,9 @@
 
 <!-- VERITAS Builder-Operator -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
-  <img alt="RJ Lopez - Builder-Operator for Local-First Agent Systems" src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=800&amp;size=29&amp;duration=2800&amp;pause=1000&amp;color=F7D774&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=58&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=800&amp;size=29&amp;duration=2800&amp;pause=1000&amp;color=9A6A00&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=58&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
+  <img alt="RJ Lopez - Builder-Operator for Local-First Agent Systems" src="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=800&amp;size=29&amp;duration=2800&amp;pause=1000&amp;color=F7D774&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=58&amp;lines=RJ+Lopez+%C2%B7+Builder-Operator;Local-First+Agent+Systems;Verification+Gates+%C2%B7+Audit+Trails+%C2%B7+Recovery" />
 </picture>
 
 <br>
@@ -56,58 +56,77 @@
 
 ---
 
-## Current Signal
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-01-signal.svg" width="850" alt="Current Signal"/>
+</p>
 
-| Proof | Evidence |
+<p align="center">
+  <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
+  <img src="https://img.shields.io/badge/7_MERGED_EXTERNAL_PRS-maintainer_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="7 merged external PRs">
+  <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
+</p>
+
+| Signal | Why It Matters |
 |:---|:---|
-| **6 shipped proof points** | [Portfolio](https://vrtxomega.github.io/veritas-portfolio/) covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| **7 merged external PRs** | Two pre-PCF Codex Desktop Linux PRs plus five upstream PRs after adopting Premature Contribution Firewall. |
-| **1 formal QA report** | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
-| **Before code** | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
+| <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
+| <b>7 merged external PRs</b> | Two pre-PCF Codex Desktop Linux PRs plus five upstream PRs after adopting Premature Contribution Firewall. |
+| <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
+| <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
-<b>What this means:</b> I build local-first agent systems that are meant to be operated, inspected, approved, tested, and recovered -- not just demoed.
-
----
-
-## If You Only Have 5 Minutes
-
-<blockquote>
-<b>1.</b> &nbsp; <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> &mdash; evidence index for six shipped proof points, seven external merged PRs, and one formal QA report.<br><br>
-<b>2.</b> &nbsp; <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><b>premature-contribution-firewall</b></a> &mdash; maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates.<br><br>
-<b>3.</b> &nbsp; <a href="https://github.com/VrtxOmega/hermes-mobile-android"><b>hermes-mobile-android</b></a> &mdash; Android/Kotlin control surface for supervising agent infrastructure from a phone.<br><br>
-<b>4.</b> &nbsp; <a href="https://github.com/VrtxOmega/omega-brain-mcp"><b>omega-brain-mcp</b></a> &mdash; MCP governance core with memory, verification gates, audit ledger, and human approval flow.<br><br>
-<b>5.</b> &nbsp; <a href="https://github.com/VrtxOmega/breakaway"><b>Breakaway</b></a> &mdash; public product shipping, deterministic scoring, and SHA-256 sealed credential proof.
-</blockquote>
-
-### Live Proof
-
-<a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/%E2%97%88_portfolio-Evidence_Index-d4af37?style=flat&amp;labelColor=000000&amp;logo=databricks&amp;logoColor=FFD700" alt="portfolio"></a>
-<a href="https://vrtxomega.github.io/breakaway/"><img src="https://img.shields.io/badge/%F0%9F%A5%88_Breakaway-VibeJam_2026_%C2%B7_2nd_Place-d4af37?style=flat&amp;labelColor=000000" alt="Breakaway"></a>
-<a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-d4af37?style=flat&amp;labelColor=000000" alt="Premature Contribution Firewall"></a>
-<a href="https://x.com/Rj_Lopez_"><img src="https://img.shields.io/badge/X-Rj__Lopez__-d4af37?style=flat&amp;labelColor=000000" alt="X"></a>
+> <b>Builder-operator:</b> I build <b>local-first agent systems</b> meant to be <b>operated</b>, <b>inspected</b>, <b>approved</b>, <b>tested</b>, and <b>recovered</b> -- not just demoed.
 
 ---
 
-## External Proof
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-02-fast-lane.svg" width="850" alt="If You Only Have 5 Minutes"/>
+</p>
 
-Merged external pull requests outside my own repos:
+| Start Here | What To Look For |
+|:---|:---|
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Six shipped proof points, seven external merged PRs, and one formal QA report in one place. |
+| <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
+| <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
+| <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
+| <a href="https://github.com/VrtxOmega/breakaway"><img src="https://img.shields.io/badge/BREAKAWAY-2nd_Place-F59E0B?style=flat-square&amp;labelColor=0B0F14" alt="Breakaway"></a> | Public product shipping, deterministic scoring, and SHA-256 sealed credential proof. |
+
+<p align="center">
+  <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/portfolio-Evidence_Index-D4AF37?style=flat&amp;labelColor=000000&amp;logo=databricks&amp;logoColor=FFD700" alt="portfolio"></a>
+  <a href="https://vrtxomega.github.io/breakaway/"><img src="https://img.shields.io/badge/Breakaway-VibeJam_2026_2nd_Place-F59E0B?style=flat&amp;labelColor=000000" alt="Breakaway"></a>
+  <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat&amp;labelColor=000000" alt="Premature Contribution Firewall"></a>
+  <a href="https://x.com/Rj_Lopez_"><img src="https://img.shields.io/badge/X-Rj__Lopez__-F472B6?style=flat&amp;labelColor=000000" alt="X"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-03-proof.svg" width="850" alt="External Proof"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pre--PCF-2_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="2 pre-PCF merges">
+  <img src="https://img.shields.io/badge/PCF--era-5_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="5 PCF-era merges">
+</p>
 
 | Project | Contribution |
 |:---|:---|
-| [codex-desktop-linux #236](https://github.com/ilysenko/codex-desktop-linux/pull/236) | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
-| [codex-desktop-linux #302](https://github.com/ilysenko/codex-desktop-linux/pull/302) | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
-| [ShellCheck #3484](https://github.com/koalaman/shellcheck/pull/3484) | Fixed underscore handling for SC2030/SC2031-style subshell assignment warnings. |
-| [Amber #1116](https://github.com/amber-lang/amber/pull/1116) | Added safer generated-shell prelude reads for ShellCheck SC2162. |
-| [Ansvisor #235](https://github.com/ansvisor/ansvisor/pull/235) | Grouped insight dashboard results by platform to avoid provider model slug drift. |
-| [Ansvisor #237](https://github.com/ansvisor/ansvisor/pull/237) | Applied the platform grouping fix to the prompt detail page. |
-| [Annotorious #610](https://github.com/annotorious/annotorious/pull/610) | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
+| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/236"><b>codex-desktop-linux #236</b></a> | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
+| <a href="https://github.com/ilysenko/codex-desktop-linux/pull/302"><b>codex-desktop-linux #302</b></a> | Added Wayland GPU rendering profile for COSMIC / Pop!_OS. |
+| <a href="https://github.com/koalaman/shellcheck/pull/3484"><b>ShellCheck #3484</b></a> | Fixed underscore handling for SC2030/SC2031-style subshell assignment warnings. |
+| <a href="https://github.com/amber-lang/amber/pull/1116"><b>Amber #1116</b></a> | Added safer generated-shell prelude reads for ShellCheck SC2162. |
+| <a href="https://github.com/ansvisor/ansvisor/pull/235"><b>Ansvisor #235</b></a> | Grouped insight dashboard results by platform to avoid provider model slug drift. |
+| <a href="https://github.com/ansvisor/ansvisor/pull/237"><b>Ansvisor #237</b></a> | Applied the platform grouping fix to the prompt detail page. |
+| <a href="https://github.com/annotorious/annotorious/pull/610"><b>Annotorious #610</b></a> | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
 
-Also: [Sibyl Memory Plugin beta QA report](https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf), a formal external QA deliverable for local-first agent memory.
+Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf"><b>Sibyl Memory Plugin beta QA report</b></a>, a formal external QA deliverable for local-first agent memory.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-04-map.svg" width="850" alt="Omega Universe Map"/>
+</p>
+
 <details>
-<summary><b>Omega Universe - Full Ecosystem Map</b></summary><br>
+<summary><b>Open the full ecosystem map</b></summary><br>
 
 ### Core
 
@@ -143,12 +162,14 @@ Also: [Sibyl Memory Plugin beta QA report](https://vrtxomega.github.io/veritas-p
 
 ---
 
-## Doctrine
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-05-doctrine.svg" width="850" alt="Doctrine"/>
+</p>
 
 <blockquote>
-<i>I do not treat AI output as truth.</i><br>
-<i>I treat it as a claim.</i><br>
-<i>A claim has to survive verification.</i>
+<b>I do not treat AI output as truth.</b><br>
+I treat it as a claim.<br>
+<b>A claim has to survive verification.</b>
 </blockquote>
 
 | Principle | What It Means |
@@ -160,20 +181,35 @@ Also: [Sibyl Memory Plugin beta QA report](https://vrtxomega.github.io/veritas-p
 
 ---
 
-## Background
-
-Before software, I worked in cleanroom and industrial environments where mistakes have physical consequences: procedures, audits, containment, thermal spray, certification, quality control, and failure modes mattered before I ever touched a repo.
-
-That shaped how I build now. I care whether a system can be checked, operated, repaired, and trusted under pressure.
+<p align="center">
+  <img src="https://img.shields.io/badge/local--first-offline_by_default-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="local-first">
+  <img src="https://img.shields.io/badge/validation-tests_logs_receipts-34D399?style=flat-square&amp;labelColor=0B0F14" alt="validation">
+  <img src="https://img.shields.io/badge/operator_model-visible_state-F472B6?style=flat-square&amp;labelColor=0B0F14" alt="operator model">
+  <img src="https://img.shields.io/badge/maintainer_discipline-small_reviewable_diffs-60A5FA?style=flat-square&amp;labelColor=0B0F14" alt="maintainer discipline">
+</p>
 
 ---
 
-## Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-06-background.svg" width="850" alt="Background"/>
+</p>
 
-**Languages:** Python, TypeScript, JavaScript, Rust, Kotlin, Shell, Solidity  
-**Systems:** Linux, Android, Tauri, Electron, SQLite, GitHub Actions, Tailscale, YubiKey/FIDO2  
-**AI / agents:** MCP, local LLM workflows, verification gates, audit logs, approval surfaces  
-**Product surfaces:** desktop apps, mobile companions, local-first dashboards, documentation systems
+Before software, I worked in <b>cleanroom</b> and <b>industrial environments</b> where mistakes have physical consequences: procedures, audits, containment, thermal spray, certification, quality control, and failure modes mattered before I ever touched a repo.
+
+That shaped how I build now. I care whether a system can be <b>checked</b>, <b>operated</b>, <b>repaired</b>, and <b>trusted under pressure</b>.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VrtxOmega/VrtxOmega/main/profile-section-07-tools.svg" width="850" alt="Tools"/>
+</p>
+
+| Lane | Tools |
+|:---|:---|
+| <b>Languages</b> | Python, TypeScript, JavaScript, Rust, Kotlin, Shell, Solidity |
+| <b>Systems</b> | Linux, Android, Tauri, Electron, SQLite, GitHub Actions, Tailscale, YubiKey/FIDO2 |
+| <b>AI / agents</b> | MCP, local LLM workflows, verification gates, audit logs, approval surfaces |
+| <b>Product surfaces</b> | Desktop apps, mobile companions, local-first dashboards, documentation systems |
 
 ---
 

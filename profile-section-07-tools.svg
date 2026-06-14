@@ -1,0 +1,22 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tools</title>
+  <desc id="desc">Blue profile section header for languages, systems, agents, and product surfaces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08101D"/>
+      <stop offset="1" stop-color="#0E1A2F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#BAE6FD"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#60A5FA" stroke-opacity="0.64" stroke-width="2"/>
+  <rect x="22" y="70" width="806" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="761" y="23" width="62" height="39" rx="7" fill="#60A5FA" fill-opacity="0.12" stroke="#93C5FD" stroke-opacity="0.72"/>
+  <path d="M776 41L785 32M776 41L785 50M799 50H814" stroke="#BAE6FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="28" y="30" fill="#60A5FA" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">07 / TOOLS</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">Stack I Actually Operate</text>
+  <text x="442" y="58" fill="#D7ECFF" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">languages, systems, agents, surfaces</text>
+</svg>

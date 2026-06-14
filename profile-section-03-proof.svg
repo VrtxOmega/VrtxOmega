@@ -1,0 +1,21 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">External Proof</title>
+  <desc id="desc">Green profile section header for merged pull request proof.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07130D"/>
+      <stop offset="1" stop-color="#0B1F18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.5" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#065F46"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#34D399" stroke-opacity="0.62" stroke-width="2"/>
+  <rect x="22" y="70" width="806" height="3" rx="1.5" fill="url(#accent)"/>
+  <path d="M770 45L789 61L820 24" stroke="#A7F3D0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="28" y="30" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">03 / EXTERNAL PROOF</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">Merged Outside My Own Repos</text>
+  <text x="513" y="58" fill="#BEE9D7" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">small diffs, real maintainers</text>
+</svg>

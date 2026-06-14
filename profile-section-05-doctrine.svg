@@ -1,0 +1,21 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Doctrine</title>
+  <desc id="desc">Rose profile section header for operating principles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#170A12"/>
+      <stop offset="1" stop-color="#27101E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F472B6"/>
+      <stop offset="0.52" stop-color="#F9A8D4"/>
+      <stop offset="1" stop-color="#9D174D"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#F472B6" stroke-opacity="0.64" stroke-width="2"/>
+  <rect x="22" y="70" width="806" height="3" rx="1.5" fill="url(#accent)"/>
+  <path d="M762 31H824M762 45H824M762 59H804" stroke="#F9A8D4" stroke-opacity="0.72" stroke-width="3" stroke-linecap="round"/>
+  <text x="28" y="30" fill="#F472B6" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">05 / DOCTRINE</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">Claims Must Survive Verification</text>
+  <text x="540" y="58" fill="#FAD0E5" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">evidence before trust</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Omega Universe Map</title>
+  <desc id="desc">Violet profile section header for the ecosystem map.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100B1A"/>
+      <stop offset="1" stop-color="#1B1230"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#A78BFA" stroke-opacity="0.64" stroke-width="2"/>
+  <path d="M22 70H828" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="762" cy="30" r="4" fill="#DDD6FE"/>
+  <circle cx="794" cy="52" r="5" fill="#A78BFA"/>
+  <circle cx="823" cy="25" r="3" fill="#C4B5FD"/>
+  <path d="M762 30L794 52L823 25" stroke="#A78BFA" stroke-opacity="0.75" stroke-width="2"/>
+  <text x="28" y="30" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">04 / ECOSYSTEM MAP</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">Omega Universe</text>
+  <text x="344" y="58" fill="#D8CCFF" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">projects, proof surfaces, older systems</text>
+</svg>

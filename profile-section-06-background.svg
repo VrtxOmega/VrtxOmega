@@ -1,0 +1,21 @@
+<svg width="850" height="92" viewBox="0 0 850 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Background</title>
+  <desc id="desc">Amber profile section header for field and cleanroom background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#160F06"/>
+      <stop offset="1" stop-color="#261A08"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="22" y1="70" x2="828" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#FCD34D"/>
+      <stop offset="1" stop-color="#92400E"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="90" rx="16" fill="url(#bg)" stroke="#F59E0B" stroke-opacity="0.64" stroke-width="2"/>
+  <path d="M22 70H828" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M768 56L795 21L822 56H768Z" fill="#F59E0B" fill-opacity="0.16" stroke="#FCD34D" stroke-opacity="0.8"/>
+  <text x="28" y="30" fill="#F59E0B" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">06 / BACKGROUND</text>
+  <text x="28" y="59" fill="#F8FAFC" font-family="Trebuchet MS, Inter, Arial, sans-serif" font-size="29" font-weight="800">Field Discipline, Software Systems</text>
+  <text x="548" y="58" fill="#FFE8B5" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">procedures before repos</text>
+</svg>
