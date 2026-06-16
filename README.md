@@ -23,14 +23,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
-  <img src="https://img.shields.io/badge/11_MERGED_EXTERNAL_PRS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="11 merged external PRs">
+  <img src="https://img.shields.io/badge/12_MERGED_EXTERNAL_PRS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="12 merged external PRs">
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
 | <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| <b>11 merged external PRs</b> | Live GitHub readback confirms merges across Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, and awesome-mcp-servers. |
+| <b>12 merged external PRs</b> | Live GitHub readback confirms merges across Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, awesome-mcp-servers, and harehare/mq. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
@@ -44,7 +44,7 @@
 
 | Start Here | What To Look For |
 |:---|:---|
-| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 11-PR readback and formal QA link. |
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 12-PR readback and formal QA link. |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/directory_proof-2_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="2 directory proof merges">
   <img src="https://img.shields.io/badge/codex_linux-3_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="3 Codex Linux merges">
   <img src="https://img.shields.io/badge/PCF--era-6_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="6 PCF-era merges">
+  <img src="https://img.shields.io/badge/harehare_mq-1_merge-9D4EDD?style=for-the-badge&amp;labelColor=0B0F14" alt="harehare/mq merge">
 </p>
 
 | Project | Contribution |
@@ -82,6 +83,7 @@
 | <a href="https://github.com/ilysenko/codex-desktop-linux/pull/236"><b>codex-desktop-linux #236</b></a> | Added GitHub CLI auth workaround docs for isolated XDG / DBus keyring paths. |
 | <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4922"><b>awesome-mcp-servers #4922</b></a> | Added VrtxOmega/Ollama-Omega to the Tools section. |
 | <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/4539"><b>awesome-mcp-servers #4539</b></a> | Added omega-brain-mcp to Developer Tools. |
+| <a href="https://github.com/harehare/mq/pull/1865"><b>harehare #1865</b></a> | Allowed pipeline expressions as function arguments via implicit block parsing. |
 
 Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory-Plugin-Beta-Test-Report.pdf"><b>Sibyl Memory Plugin beta QA report</b></a>, a formal external QA deliverable for local-first agent memory.
 
