@@ -16,35 +16,35 @@
     <text font-family="Georgia, serif" font-size="11" fill="#6e7781" letter-spacing="2">REPOSITORIES</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
       32
-      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.1s" repeatCount="indefinite"/>
     </text>
   </g>
   <g transform="translate(190, 65)">
     <text font-family="Georgia, serif" font-size="11" fill="#6e7781" letter-spacing="2">COMMITS</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
       500+
-      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.8s" repeatCount="indefinite"/>
     </text>
   </g>
   <g transform="translate(340, 65)">
     <text font-family="Georgia, serif" font-size="11" fill="#6e7781" letter-spacing="2">STARS</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
       * 100+
-      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.1s" repeatCount="indefinite"/>
     </text>
   </g>
   <g transform="translate(490, 65)">
     <text font-family="Georgia, serif" font-size="11" fill="#6e7781" letter-spacing="2">PULL REQUESTS</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
       85+
-      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.1s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.0s" repeatCount="indefinite"/>
     </text>
   </g>
   <g transform="translate(660, 65)">
     <text font-family="Georgia, serif" font-size="11" fill="#6e7781" letter-spacing="2">BUILD STREAK</text>
     <text font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#FFD700" y="26" filter="url(#glow)">
       90+
-      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.8;1;0.8" dur="3.8s" repeatCount="indefinite"/>
     </text>
   </g>
   <g transform="translate(40, 130)">
