@@ -23,14 +23,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
-  <img src="https://img.shields.io/badge/14_MERGED_EXTERNAL_CONTRIBUTIONS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="14 merged external contributions">
+  <img src="https://img.shields.io/badge/15_MERGED_EXTERNAL_CONTRIBUTIONS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="15 merged external contributions">
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
 | <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| <b>14 merged external contributions</b> | Live GitHub readback confirms contributions across Hermes Agent, Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, awesome-mcp-servers, and harehare/mq. |
+| <b>15 merged external contributions</b> | Live GitHub readback confirms contributions across Hermes Agent, Kaoto forms, Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, awesome-mcp-servers, and harehare/mq. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/directory_proof-2_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="2 directory proof merges">
   <img src="https://img.shields.io/badge/codex_linux-3_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="3 Codex Linux merges">
-  <img src="https://img.shields.io/badge/PCF--era-7_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="7 PCF-era merges">
+  <img src="https://img.shields.io/badge/PCF--era-8_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="8 PCF-era merges">
   <img src="https://img.shields.io/badge/harehare_mq-1_merge-9D4EDD?style=for-the-badge&amp;labelColor=0B0F14" alt="harehare/mq merge">
   <a href="https://github.com/NousResearch/hermes-agent/pull/65682"><img src="https://img.shields.io/badge/Hermes_Agent-authorship_preserved-F472B6?style=for-the-badge&amp;labelColor=0B0F14" alt="Hermes Agent authorship preserved"></a>
   <a href="https://github.com/NousResearch/hermes-agent/pull/69696"><img src="https://img.shields.io/badge/Hermes_PATH-diagnosis_credited-F59E0B?style=for-the-badge&amp;labelColor=0B0F14" alt="Hermes PATH diagnosis credited in an open PR"></a>
@@ -76,6 +76,7 @@
 |:---|:---|
 | <a href="https://github.com/NousResearch/hermes-agent/pull/65682"><b>Hermes Agent #65682</b></a><br><a href="https://github.com/NousResearch/hermes-agent/commit/998e35313a42f7d4fb82646ee57d0aea57f077c0"><code>998e35313</code> authored commit</a> | Original <a href="https://github.com/NousResearch/hermes-agent/pull/43861">PR #43861</a> closed unmerged after upstream fallback restructuring. Teknium's surgical reapply preserved my authorship, centralized per-entry <code>key_env</code> resolution in <code>resolve_entry_api_key()</code>, aligned TUI/desktop, cron, gateway, and CLI setup, and passed 565/565 targeted tests. |
 | <a href="https://github.com/NousResearch/hermes-agent/pull/69696"><b>Hermes Agent #69696</b></a><br><code>OPEN · CREDITED</code> | Teknium's broader login-shell <code>PATH</code> implementation explicitly subsumes and credits my earlier <a href="https://github.com/NousResearch/hermes-agent/pull/43834">PR #43834</a> for independently mapping the GUI/login-shell bug family. This open PR is excluded from the merged totals above. |
+| <a href="https://github.com/KaotoIO/forms/pull/104"><b>Kaoto forms #104</b></a> | Fixed the shared forms-library empty state so an already-selected <code>All</code> tab no longer suggests switching to itself; added focused regression coverage and merged into <code>1.x</code>. |
 | <a href="https://github.com/karakeep-app/karakeep/pull/2864"><b>Karakeep #2864</b></a> | Fixed vertical scrolling for tall screenshot previews; the maintainer confirmed it is coming in the next release. |
 | <a href="https://github.com/karakeep-app/karakeep/pull/2863"><b>Karakeep #2863</b></a> | Fixed BROWSER_WEB_URL IPv6 host resolution. |
 | <a href="https://github.com/annotorious/annotorious/pull/610"><b>Annotorious #610</b></a> | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
