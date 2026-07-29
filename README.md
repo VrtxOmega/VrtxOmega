@@ -22,14 +22,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="6 shipped proof points">
+  <img src="https://img.shields.io/badge/7_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="7 shipped proof points">
   <img src="https://img.shields.io/badge/15_MERGED_EXTERNAL_CONTRIBUTIONS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="15 merged external contributions">
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
-| <b>6 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
+| <b>7 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers the VERITAS Omega Agent Trust Lab, Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
 | <b>15 merged external contributions</b> | Live GitHub readback confirms contributions across Hermes Agent, Kaoto forms, Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, awesome-mcp-servers, and harehare/mq. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
@@ -44,7 +44,8 @@
 
 | Start Here | What To Look For |
 |:---|:---|
-| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for six shipped proof points; this profile table carries the live 14-contribution readback and formal QA link. |
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for seven shipped proof points; this profile carries the live 15-contribution readback and formal QA link. |
+| <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/VERITAS-Trust_Lab-F7D774?style=flat-square&amp;labelColor=0B0F14" alt="VERITAS Omega Agent Trust Lab"></a> | Blind six-case agent-assurance calibration with 14 passing tests and downloadable evidence. Public availability is verified; independent adoption remains <code>INCONCLUSIVE</code>. <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab">Source &rarr;</a> |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
@@ -146,6 +147,7 @@ Also: <a href="https://vrtxomega.github.io/veritas-portfolio/assets/Sibyl-Memory
 
 | Repository / Artifact | What It Proves |
 |-----------|-------------|
+| <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab"><b>veritas-agent-trust-lab</b></a> | Public blind challenge for forged verdicts, parameter swaps, replay, correlated evaluators, evidence deletion, and silent monitoring. <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/">Live &rarr;</a> |
 | <a href="https://github.com/VrtxOmega/veritas-portfolio"><b>veritas-portfolio</b></a> | Public evidence index for shipped proof points, external contributions, QA work, and operating principles. <a href="https://vrtxomega.github.io/veritas-portfolio/">Live &rarr;</a> |
 | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Shell Trials</b></a> | Educational systems: a terminal RPG that teaches Linux by doing, not reading. |
 | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Omega SMC</b></a> | Android mesh command center for private Tailscale operator infrastructure. |
