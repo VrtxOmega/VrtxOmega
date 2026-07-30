@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/7_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="7 shipped proof points">
   <img src="https://img.shields.io/badge/15_MERGED_EXTERNAL_CONTRIBUTIONS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="15 merged external contributions">
+  <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/6%2F50_SCOPED_EXTERNAL_VALIDATIONS-canonical_ledger-F7D774?style=for-the-badge&amp;labelColor=0B0F14" alt="6 of 50 scoped external validations"></a>
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
@@ -45,7 +46,7 @@
 | Start Here | What To Look For |
 |:---|:---|
 | <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for seven shipped proof points; this profile carries the live 15-contribution readback and formal QA link. |
-| <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/VERITAS-Trust_Lab-F7D774?style=flat-square&amp;labelColor=0B0F14" alt="VERITAS Omega Agent Trust Lab"></a> | Blind six-case agent-assurance calibration with 14 passing tests and downloadable evidence. Public availability is verified; independent adoption remains <code>INCONCLUSIVE</code>. <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab">Source &rarr;</a> |
+| <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/VERITAS-Trust_Lab-F7D774?style=flat-square&amp;labelColor=0B0F14" alt="VERITAS Omega Agent Trust Lab"></a> | Blind six-case agent-assurance challenge with 43 passing tests and downloadable evidence. The canonical ledger records 6/50 scoped independent actions from six validators, with 44 remaining and $0 verified payment. Efficacy, broad adoption, endorsement, certification, and paid demand remain <code>INCONCLUSIVE</code>. <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab">Source &rarr;</a> |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
