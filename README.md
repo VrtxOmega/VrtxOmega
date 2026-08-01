@@ -23,15 +23,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/7_SHIPPED_PROOF_POINTS-portfolio_verified-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="7 shipped proof points">
-  <img src="https://img.shields.io/badge/15_MERGED_EXTERNAL_CONTRIBUTIONS-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="15 merged external contributions">
-  <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/6%2F50_SCOPED_EXTERNAL_VALIDATIONS-canonical_ledger-F7D774?style=for-the-badge&amp;labelColor=0B0F14" alt="6 of 50 scoped external validations"></a>
+  <img src="https://img.shields.io/badge/20_DIRECT_EXTERNAL_PR_MERGES-live_readback-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="20 direct external pull request merges">
+  <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/9%2F50_SCOPED_EXTERNAL_VALIDATIONS-protocol_v2-F7D774?style=for-the-badge&amp;labelColor=0B0F14" alt="9 of 50 scoped external validations under Protocol v2"></a>
   <img src="https://img.shields.io/badge/1_FORMAL_QA_REPORT-Sibyl_beta-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="1 formal QA report">
 </p>
 
 | Signal | Why It Matters |
 |:---|:---|
 | <b>7 shipped proof points</b> | <a href="https://vrtxomega.github.io/veritas-portfolio/"><b>Portfolio</b></a> covers the VERITAS Omega Agent Trust Lab, Hermes Agent Mobile Companion, Breakaway, Shell Trials, Omega SMC, coders-bible-desktop, and YubiKey/FIDO2 + Tailscale mesh. |
-| <b>15 merged external contributions</b> | Live GitHub readback confirms contributions across Hermes Agent, Kaoto forms, Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, awesome-mcp-servers, and harehare/mq. |
+| <b>20 direct external PR merges</b> | Live GitHub readback confirms direct merges across AgentDoctor, Drift, Trail of Bits Dylint, Kaoto forms, Karakeep, Annotorious, Ansvisor, Amber, ShellCheck, Codex Desktop Linux, three AI-security catalogs, awesome-mcp-servers, and harehare/mq. Hermes Agent maintainer-reapplied authorship remains a separate proof category. |
 | <b>1 formal QA report</b> | Sibyl Memory Plugin beta QA deliverable with sandboxing, local-storage, trust/control, and bug-finding evidence. |
 | <b>Before code</b> | Cleanroom certification, field service, industrial maintenance, thermal spray, quality control, and audit-ready documentation. |
 
@@ -45,8 +45,8 @@
 
 | Start Here | What To Look For |
 |:---|:---|
-| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for seven shipped proof points; this profile carries the live 15-contribution readback and formal QA link. |
-| <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/VERITAS-Trust_Lab-F7D774?style=flat-square&amp;labelColor=0B0F14" alt="VERITAS Omega Agent Trust Lab"></a> | Blind six-case agent-assurance challenge with 51 passing tests and downloadable evidence. The canonical ledger records 7/50 scoped independent actions from seven validators, with 43 remaining and $0 verified payment. The seventh event is an unfavorable root-cause review, not acceptance. Efficacy, broad adoption, endorsement, certification, and paid demand remain <code>INCONCLUSIVE</code>. <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab">Source &rarr;</a> |
+| <a href="https://vrtxomega.github.io/veritas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Evidence_Index-D4AF37?style=flat-square&amp;labelColor=0B0F14" alt="Portfolio"></a> | Evidence index for seven shipped proof points; this profile carries the live 20-direct-PR readback, separate Hermes authorship evidence, and formal QA link. |
+| <a href="https://vrtxomega.github.io/veritas-agent-trust-lab/"><img src="https://img.shields.io/badge/VERITAS-Trust_Lab-F7D774?style=flat-square&amp;labelColor=0B0F14" alt="VERITAS Omega Agent Trust Lab"></a> | Blind six-case agent-assurance challenge with 56 passing tests and downloadable evidence. Protocol v2 records 9/50 scoped outside actions from nine validators, with 41 remaining, zero independent verifier runs, and $0 settled revenue. The mix is three curator decisions, one reproduced defect, two integrations, and three substantive reviews; one review is an unfavorable root-cause rejection, and the RCL review is not an independent verifier run. Efficacy, adoption, endorsement, certification, and paid demand remain <code>INCONCLUSIVE</code>. <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab">Source</a> &middot; <a href="https://github.com/VrtxOmega/veritas-agent-trust-lab/issues/60">Help verify or break it &rarr;</a> |
 | <a href="https://github.com/VrtxOmega/premature-contribution-firewall"><img src="https://img.shields.io/badge/PCF-Review_Readiness-38BDF8?style=flat-square&amp;labelColor=0B0F14" alt="Premature Contribution Firewall"></a> | Maintainer-grade PR intake: repo context, overlap checks, dry-run scoring, and reproducible proof gates. |
 | <a href="https://github.com/VrtxOmega/hermes-mobile-android"><img src="https://img.shields.io/badge/ANDROID-Agent_Control-34D399?style=flat-square&amp;labelColor=0B0F14" alt="Hermes Android"></a> | Kotlin control surface for supervising agent infrastructure from a phone. |
 | <a href="https://github.com/VrtxOmega/omega-brain-mcp"><img src="https://img.shields.io/badge/MCP-Governance_Core-A78BFA?style=flat-square&amp;labelColor=0B0F14" alt="Omega Brain MCP"></a> | Memory, verification gates, audit ledger, and human approval flow. |
@@ -66,9 +66,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/directory_proof-2_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="2 directory proof merges">
+  <img src="https://img.shields.io/badge/directory_and_catalog_proof-5_merges-D4AF37?style=for-the-badge&amp;labelColor=0B0F14" alt="5 directory and catalog proof merges">
   <img src="https://img.shields.io/badge/codex_linux-3_merges-60A5FA?style=for-the-badge&amp;labelColor=0B0F14" alt="3 Codex Linux merges">
-  <img src="https://img.shields.io/badge/PCF--era-8_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="8 PCF-era merges">
+  <img src="https://img.shields.io/badge/PCF--era-14_merges-34D399?style=for-the-badge&amp;labelColor=0B0F14" alt="14 PCF-era merges">
   <img src="https://img.shields.io/badge/harehare_mq-1_merge-9D4EDD?style=for-the-badge&amp;labelColor=0B0F14" alt="harehare/mq merge">
   <a href="https://github.com/NousResearch/hermes-agent/pull/65682"><img src="https://img.shields.io/badge/Hermes_Agent-authorship_preserved-F472B6?style=for-the-badge&amp;labelColor=0B0F14" alt="Hermes Agent authorship preserved"></a>
   <a href="https://github.com/NousResearch/hermes-agent/pull/69696"><img src="https://img.shields.io/badge/Hermes_PATH-diagnosis_credited-F59E0B?style=for-the-badge&amp;labelColor=0B0F14" alt="Hermes PATH diagnosis credited in an open PR"></a>
@@ -78,8 +78,14 @@
 |:---|:---|
 | <a href="https://github.com/NousResearch/hermes-agent/pull/65682"><b>Hermes Agent #65682</b></a><br><a href="https://github.com/NousResearch/hermes-agent/commit/998e35313a42f7d4fb82646ee57d0aea57f077c0"><code>998e35313</code> authored commit</a> | Original <a href="https://github.com/NousResearch/hermes-agent/pull/43861">PR #43861</a> closed unmerged after upstream fallback restructuring. Teknium's surgical reapply preserved my authorship, centralized per-entry <code>key_env</code> resolution in <code>resolve_entry_api_key()</code>, aligned TUI/desktop, cron, gateway, and CLI setup, and passed 565/565 targeted tests. |
 | <a href="https://github.com/NousResearch/hermes-agent/pull/69696"><b>Hermes Agent #69696</b></a><br><code>OPEN · CREDITED</code> | Teknium's broader login-shell <code>PATH</code> implementation explicitly subsumes and credits my earlier <a href="https://github.com/NousResearch/hermes-agent/pull/43834">PR #43834</a> for independently mapping the GUI/login-shell bug family. This open PR is excluded from the merged totals above. |
+| <a href="https://github.com/pranee54/AgentDoctor/pull/18"><b>AgentDoctor #18</b></a> | Added a GitHub Action while preventing output-path and symlink escapes; the repository owner reproduced the defect, required a focused remediation matrix, re-verified the correction, and merged the PR. That lifecycle remains one scoped external event. |
+| <a href="https://github.com/mick-gsk/drift/pull/792"><b>Drift #792</b></a> | Fixed stale-index sampling so medium repositories are sampled across the full file range instead of only near the beginning; added a 39-file regression and merged. |
+| <a href="https://github.com/trailofbits/dylint/pull/2016"><b>Trail of Bits Dylint #2016</b></a> | Prevented a misleading-variable-name false positive when the type is explicit; synchronized rustdoc and generated README evidence after review, then merged. |
+| <a href="https://github.com/systempromptio/awesome-ai-agent-governance/pull/27"><b>awesome-ai-agent-governance #27</b></a> | Independent curator accepted the narrowly scoped Trust Lab entry. This establishes catalog fit, not VERITAS efficacy. |
+| <a href="https://github.com/gmh5225/awesome-ai-security/pull/18"><b>awesome-ai-security #18</b></a> | A second independent curator accepted the Trust Lab into a separate AI-security catalog, with the same discovery-only boundary. |
+| <a href="https://github.com/scadastrangelove/awesome-ai-security-tools/pull/29"><b>awesome-ai-security-tools #29</b></a> | SCADA StrangeLove merged the Trust Lab into its new-project watchlist with the limitations preserved in the listing. |
 | <a href="https://github.com/KaotoIO/forms/pull/104"><b>Kaoto forms #104</b></a> | Fixed the shared forms-library empty state so an already-selected <code>All</code> tab no longer suggests switching to itself; added focused regression coverage and merged into <code>1.x</code>. |
-| <a href="https://github.com/karakeep-app/karakeep/pull/2864"><b>Karakeep #2864</b></a> | Fixed vertical scrolling for tall screenshot previews; the maintainer confirmed it is coming in the next release. |
+| <a href="https://github.com/karakeep-app/karakeep/pull/2864"><b>Karakeep #2864</b></a> | Fixed vertical scrolling for tall screenshot previews; shipped in <a href="https://github.com/karakeep-app/karakeep/releases/tag/v0.33.1">Karakeep 0.33.1</a> with contributor credit. |
 | <a href="https://github.com/karakeep-app/karakeep/pull/2863"><b>Karakeep #2863</b></a> | Fixed BROWSER_WEB_URL IPv6 host resolution. |
 | <a href="https://github.com/annotorious/annotorious/pull/610"><b>Annotorious #610</b></a> | Made OpenSeadragon polygon simplification tolerance configurable while preserving default behavior. |
 | <a href="https://github.com/ansvisor/ansvisor/pull/237"><b>Ansvisor #237</b></a> | Grouped prompt detail results by platform to avoid provider model slug drift. |
